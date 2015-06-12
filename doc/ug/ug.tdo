@@ -1,0 +1,32 @@
+\contentsline {todo}{{What is the syntax of variant 3?}}{33}{section*.3}
+\contentsline {todo}{{Better throw some out (\textit {e.g.}\xspace switches)?}}{87}{section*.11}
+\contentsline {todo}{{Missing: lattice_switch, dpd_tgamma, n_rigidbonds}}{87}{section*.12}
+\contentsline {todo}{{Which commands can be used to set the \emph {read-only} variables?}}{87}{section*.13}
+\contentsline {todo}{{Docs missing.}}{88}{section*.14}
+\contentsline {todo}{{Docs missing.}}{88}{section*.15}
+\contentsline {todo}{{Add a comment to the UG that the analysis routines in \unhbox \voidb@x \hbox {\textsf {ESPResSo}}\xspace {} with Python currently require the user to `from espressomd import analyze.'}}{115}{section*.25}
+\contentsline {todo}{{Document the usage!}}{119}{section*.26}
+\contentsline {todo}{{Document the usage!}}{119}{section*.27}
+\contentsline {todo}{{Document the usage and what it is!}}{119}{section*.28}
+\contentsline {todo}{{I think there is still a bug in there (Hanjo)}}{123}{section*.29}
+\contentsline {todo}{{Describe the different energies components returned by the different commands!}}{124}{section*.30}
+\contentsline {todo}{{Document arguments nb_inter, nb_intra, tot_nb_inter and tot_nb_intra}}{125}{section*.31}
+\contentsline {todo}{{Description of how electrostatic contribution to Pressure is calculated}}{125}{section*.32}
+\contentsline {todo}{{Check this!}}{131}{section*.40}
+\contentsline {todo}{{Missing descriptions of parameters of several observables}}{136}{section*.44}
+\contentsline {todo}{{any suggestion for a more suitable name?}}{137}{section*.45}
+\contentsline {todo}{{Formatted printing is not fully supported yet.}}{139}{section*.46}
+\contentsline {todo}{{Does not work yet}}{140}{section*.47}
+\contentsline {todo}{{Processing data from Tcl input or from input files is not fully supported yet.}}{142}{section*.48}
+\contentsline {todo}{{Complex conjugate product must be defined.}}{143}{section*.49}
+\contentsline {todo}{{Maybe not all parameters are printed.}}{144}{section*.50}
+\contentsline {todo}{{I do not understand this. How does the error look?}}{163}{section*.51}
+\contentsline {todo}{{Missing commands: Probably all from \unhbox \voidb@x \hbox {\texttt {scripts/auxiliary.tcl}}?}}{165}{section*.52}
+\contentsline {todo}{{Complete in broad strokes the applicability of the electrokinetics model. Also mention the difference in temperatures between EK and LB species.}}{183}{section*.53}
+\contentsline {todo}{{At the moment this fails badly, if you try to parse incorrectly formatted files. This will be fixed in the future.}}{190}{section*.55}
+\contentsline {todo}{{The list contains all features, but there are tons of docs missing!}}{245}{section*.56}
+\contentsline {todo}{{Docs missing}}{246}{section*.57}
+\contentsline {todo}{{How to use it?}}{246}{section*.58}
+\contentsline {todo}{{Documentation!}}{247}{section*.59}
+\contentsline {todo}{{BOND\_ANGLEDIST and BOND\_ENDANGLEDIST are completely undocumented.}}{249}{section*.60}
+\contentsline {todo}{{Cleanup: References, mathematics}}{259}{section*.61}

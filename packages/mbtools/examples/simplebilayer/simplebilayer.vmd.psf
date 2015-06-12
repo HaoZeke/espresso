@@ -1,0 +1,1353 @@
+PSF
+    1080 !NATOM
+       1 T000    0 UNX  FE   FE                   
+       2 T001    1 UNX  FE   FE                   
+       3 T002    2 UNX  FE   FE                   
+       4 T000    3 UNX  FE   FE                   
+       5 T001    4 UNX  FE   FE                   
+       6 T002    5 UNX  FE   FE                   
+       7 T000    6 UNX  FE   FE                   
+       8 T001    7 UNX  FE   FE                   
+       9 T002    8 UNX  FE   FE                   
+      10 T000    9 UNX  FE   FE                   
+      11 T001   10 UNX  FE   FE                   
+      12 T002   11 UNX  FE   FE                   
+      13 T000   12 UNX  FE   FE                   
+      14 T001   13 UNX  FE   FE                   
+      15 T002   14 UNX  FE   FE                   
+      16 T000   15 UNX  FE   FE                   
+      17 T001   16 UNX  FE   FE                   
+      18 T002   17 UNX  FE   FE                   
+      19 T000   18 UNX  FE   FE                   
+      20 T001   19 UNX  FE   FE                   
+      21 T002   20 UNX  FE   FE                   
+      22 T000   21 UNX  FE   FE                   
+      23 T001   22 UNX  FE   FE                   
+      24 T002   23 UNX  FE   FE                   
+      25 T000   24 UNX  FE   FE                   
+      26 T001   25 UNX  FE   FE                   
+      27 T002   26 UNX  FE   FE                   
+      28 T000   27 UNX  FE   FE                   
+      29 T001   28 UNX  FE   FE                   
+      30 T002   29 UNX  FE   FE                   
+      31 T000   30 UNX  FE   FE                   
+      32 T001   31 UNX  FE   FE                   
+      33 T002   32 UNX  FE   FE                   
+      34 T000   33 UNX  FE   FE                   
+      35 T001   34 UNX  FE   FE                   
+      36 T002   35 UNX  FE   FE                   
+      37 T000   36 UNX  FE   FE                   
+      38 T001   37 UNX  FE   FE                   
+      39 T002   38 UNX  FE   FE                   
+      40 T000   39 UNX  FE   FE                   
+      41 T001   40 UNX  FE   FE                   
+      42 T002   41 UNX  FE   FE                   
+      43 T000   42 UNX  FE   FE                   
+      44 T001   43 UNX  FE   FE                   
+      45 T002   44 UNX  FE   FE                   
+      46 T000   45 UNX  FE   FE                   
+      47 T001   46 UNX  FE   FE                   
+      48 T002   47 UNX  FE   FE                   
+      49 T000   48 UNX  FE   FE                   
+      50 T001   49 UNX  FE   FE                   
+      51 T002   50 UNX  FE   FE                   
+      52 T000   51 UNX  FE   FE                   
+      53 T001   52 UNX  FE   FE                   
+      54 T002   53 UNX  FE   FE                   
+      55 T000   54 UNX  FE   FE                   
+      56 T001   55 UNX  FE   FE                   
+      57 T002   56 UNX  FE   FE                   
+      58 T000   57 UNX  FE   FE                   
+      59 T001   58 UNX  FE   FE                   
+      60 T002   59 UNX  FE   FE                   
+      61 T000   60 UNX  FE   FE                   
+      62 T001   61 UNX  FE   FE                   
+      63 T002   62 UNX  FE   FE                   
+      64 T000   63 UNX  FE   FE                   
+      65 T001   64 UNX  FE   FE                   
+      66 T002   65 UNX  FE   FE                   
+      67 T000   66 UNX  FE   FE                   
+      68 T001   67 UNX  FE   FE                   
+      69 T002   68 UNX  FE   FE                   
+      70 T000   69 UNX  FE   FE                   
+      71 T001   70 UNX  FE   FE                   
+      72 T002   71 UNX  FE   FE                   
+      73 T000   72 UNX  FE   FE                   
+      74 T001   73 UNX  FE   FE                   
+      75 T002   74 UNX  FE   FE                   
+      76 T000   75 UNX  FE   FE                   
+      77 T001   76 UNX  FE   FE                   
+      78 T002   77 UNX  FE   FE                   
+      79 T000   78 UNX  FE   FE                   
+      80 T001   79 UNX  FE   FE                   
+      81 T002   80 UNX  FE   FE                   
+      82 T000   81 UNX  FE   FE                   
+      83 T001   82 UNX  FE   FE                   
+      84 T002   83 UNX  FE   FE                   
+      85 T000   84 UNX  FE   FE                   
+      86 T001   85 UNX  FE   FE                   
+      87 T002   86 UNX  FE   FE                   
+      88 T000   87 UNX  FE   FE                   
+      89 T001   88 UNX  FE   FE                   
+      90 T002   89 UNX  FE   FE                   
+      91 T000   90 UNX  FE   FE                   
+      92 T001   91 UNX  FE   FE                   
+      93 T002   92 UNX  FE   FE                   
+      94 T000   93 UNX  FE   FE                   
+      95 T001   94 UNX  FE   FE                   
+      96 T002   95 UNX  FE   FE                   
+      97 T000   96 UNX  FE   FE                   
+      98 T001   97 UNX  FE   FE                   
+      99 T002   98 UNX  FE   FE                   
+     100 T000   99 UNX  FE   FE                   
+     101 T001  100 UNX  FE   FE                   
+     102 T002  101 UNX  FE   FE                   
+     103 T000  102 UNX  FE   FE                   
+     104 T001  103 UNX  FE   FE                   
+     105 T002  104 UNX  FE   FE                   
+     106 T000  105 UNX  FE   FE                   
+     107 T001  106 UNX  FE   FE                   
+     108 T002  107 UNX  FE   FE                   
+     109 T000  108 UNX  FE   FE                   
+     110 T001  109 UNX  FE   FE                   
+     111 T002  110 UNX  FE   FE                   
+     112 T000  111 UNX  FE   FE                   
+     113 T001  112 UNX  FE   FE                   
+     114 T002  113 UNX  FE   FE                   
+     115 T000  114 UNX  FE   FE                   
+     116 T001  115 UNX  FE   FE                   
+     117 T002  116 UNX  FE   FE                   
+     118 T000  117 UNX  FE   FE                   
+     119 T001  118 UNX  FE   FE                   
+     120 T002  119 UNX  FE   FE                   
+     121 T000  120 UNX  FE   FE                   
+     122 T001  121 UNX  FE   FE                   
+     123 T002  122 UNX  FE   FE                   
+     124 T000  123 UNX  FE   FE                   
+     125 T001  124 UNX  FE   FE                   
+     126 T002  125 UNX  FE   FE                   
+     127 T000  126 UNX  FE   FE                   
+     128 T001  127 UNX  FE   FE                   
+     129 T002  128 UNX  FE   FE                   
+     130 T000  129 UNX  FE   FE                   
+     131 T001  130 UNX  FE   FE                   
+     132 T002  131 UNX  FE   FE                   
+     133 T000  132 UNX  FE   FE                   
+     134 T001  133 UNX  FE   FE                   
+     135 T002  134 UNX  FE   FE                   
+     136 T000  135 UNX  FE   FE                   
+     137 T001  136 UNX  FE   FE                   
+     138 T002  137 UNX  FE   FE                   
+     139 T000  138 UNX  FE   FE                   
+     140 T001  139 UNX  FE   FE                   
+     141 T002  140 UNX  FE   FE                   
+     142 T000  141 UNX  FE   FE                   
+     143 T001  142 UNX  FE   FE                   
+     144 T002  143 UNX  FE   FE                   
+     145 T000  144 UNX  FE   FE                   
+     146 T001  145 UNX  FE   FE                   
+     147 T002  146 UNX  FE   FE                   
+     148 T000  147 UNX  FE   FE                   
+     149 T001  148 UNX  FE   FE                   
+     150 T002  149 UNX  FE   FE                   
+     151 T000  150 UNX  FE   FE                   
+     152 T001  151 UNX  FE   FE                   
+     153 T002  152 UNX  FE   FE                   
+     154 T000  153 UNX  FE   FE                   
+     155 T001  154 UNX  FE   FE                   
+     156 T002  155 UNX  FE   FE                   
+     157 T000  156 UNX  FE   FE                   
+     158 T001  157 UNX  FE   FE                   
+     159 T002  158 UNX  FE   FE                   
+     160 T000  159 UNX  FE   FE                   
+     161 T001  160 UNX  FE   FE                   
+     162 T002  161 UNX  FE   FE                   
+     163 T000  162 UNX  FE   FE                   
+     164 T001  163 UNX  FE   FE                   
+     165 T002  164 UNX  FE   FE                   
+     166 T000  165 UNX  FE   FE                   
+     167 T001  166 UNX  FE   FE                   
+     168 T002  167 UNX  FE   FE                   
+     169 T000  168 UNX  FE   FE                   
+     170 T001  169 UNX  FE   FE                   
+     171 T002  170 UNX  FE   FE                   
+     172 T000  171 UNX  FE   FE                   
+     173 T001  172 UNX  FE   FE                   
+     174 T002  173 UNX  FE   FE                   
+     175 T000  174 UNX  FE   FE                   
+     176 T001  175 UNX  FE   FE                   
+     177 T002  176 UNX  FE   FE                   
+     178 T000  177 UNX  FE   FE                   
+     179 T001  178 UNX  FE   FE                   
+     180 T002  179 UNX  FE   FE                   
+     181 T000  180 UNX  FE   FE                   
+     182 T001  181 UNX  FE   FE                   
+     183 T002  182 UNX  FE   FE                   
+     184 T000  183 UNX  FE   FE                   
+     185 T001  184 UNX  FE   FE                   
+     186 T002  185 UNX  FE   FE                   
+     187 T000  186 UNX  FE   FE                   
+     188 T001  187 UNX  FE   FE                   
+     189 T002  188 UNX  FE   FE                   
+     190 T000  189 UNX  FE   FE                   
+     191 T001  190 UNX  FE   FE                   
+     192 T002  191 UNX  FE   FE                   
+     193 T000  192 UNX  FE   FE                   
+     194 T001  193 UNX  FE   FE                   
+     195 T002  194 UNX  FE   FE                   
+     196 T000  195 UNX  FE   FE                   
+     197 T001  196 UNX  FE   FE                   
+     198 T002  197 UNX  FE   FE                   
+     199 T000  198 UNX  FE   FE                   
+     200 T001  199 UNX  FE   FE                   
+     201 T002  200 UNX  FE   FE                   
+     202 T000  201 UNX  FE   FE                   
+     203 T001  202 UNX  FE   FE                   
+     204 T002  203 UNX  FE   FE                   
+     205 T000  204 UNX  FE   FE                   
+     206 T001  205 UNX  FE   FE                   
+     207 T002  206 UNX  FE   FE                   
+     208 T000  207 UNX  FE   FE                   
+     209 T001  208 UNX  FE   FE                   
+     210 T002  209 UNX  FE   FE                   
+     211 T000  210 UNX  FE   FE                   
+     212 T001  211 UNX  FE   FE                   
+     213 T002  212 UNX  FE   FE                   
+     214 T000  213 UNX  FE   FE                   
+     215 T001  214 UNX  FE   FE                   
+     216 T002  215 UNX  FE   FE                   
+     217 T000  216 UNX  FE   FE                   
+     218 T001  217 UNX  FE   FE                   
+     219 T002  218 UNX  FE   FE                   
+     220 T000  219 UNX  FE   FE                   
+     221 T001  220 UNX  FE   FE                   
+     222 T002  221 UNX  FE   FE                   
+     223 T000  222 UNX  FE   FE                   
+     224 T001  223 UNX  FE   FE                   
+     225 T002  224 UNX  FE   FE                   
+     226 T000  225 UNX  FE   FE                   
+     227 T001  226 UNX  FE   FE                   
+     228 T002  227 UNX  FE   FE                   
+     229 T000  228 UNX  FE   FE                   
+     230 T001  229 UNX  FE   FE                   
+     231 T002  230 UNX  FE   FE                   
+     232 T000  231 UNX  FE   FE                   
+     233 T001  232 UNX  FE   FE                   
+     234 T002  233 UNX  FE   FE                   
+     235 T000  234 UNX  FE   FE                   
+     236 T001  235 UNX  FE   FE                   
+     237 T002  236 UNX  FE   FE                   
+     238 T000  237 UNX  FE   FE                   
+     239 T001  238 UNX  FE   FE                   
+     240 T002  239 UNX  FE   FE                   
+     241 T000  240 UNX  FE   FE                   
+     242 T001  241 UNX  FE   FE                   
+     243 T002  242 UNX  FE   FE                   
+     244 T000  243 UNX  FE   FE                   
+     245 T001  244 UNX  FE   FE                   
+     246 T002  245 UNX  FE   FE                   
+     247 T000  246 UNX  FE   FE                   
+     248 T001  247 UNX  FE   FE                   
+     249 T002  248 UNX  FE   FE                   
+     250 T000  249 UNX  FE   FE                   
+     251 T001  250 UNX  FE   FE                   
+     252 T002  251 UNX  FE   FE                   
+     253 T000  252 UNX  FE   FE                   
+     254 T001  253 UNX  FE   FE                   
+     255 T002  254 UNX  FE   FE                   
+     256 T000  255 UNX  FE   FE                   
+     257 T001  256 UNX  FE   FE                   
+     258 T002  257 UNX  FE   FE                   
+     259 T000  258 UNX  FE   FE                   
+     260 T001  259 UNX  FE   FE                   
+     261 T002  260 UNX  FE   FE                   
+     262 T000  261 UNX  FE   FE                   
+     263 T001  262 UNX  FE   FE                   
+     264 T002  263 UNX  FE   FE                   
+     265 T000  264 UNX  FE   FE                   
+     266 T001  265 UNX  FE   FE                   
+     267 T002  266 UNX  FE   FE                   
+     268 T000  267 UNX  FE   FE                   
+     269 T001  268 UNX  FE   FE                   
+     270 T002  269 UNX  FE   FE                   
+     271 T000  270 UNX  FE   FE                   
+     272 T001  271 UNX  FE   FE                   
+     273 T002  272 UNX  FE   FE                   
+     274 T000  273 UNX  FE   FE                   
+     275 T001  274 UNX  FE   FE                   
+     276 T002  275 UNX  FE   FE                   
+     277 T000  276 UNX  FE   FE                   
+     278 T001  277 UNX  FE   FE                   
+     279 T002  278 UNX  FE   FE                   
+     280 T000  279 UNX  FE   FE                   
+     281 T001  280 UNX  FE   FE                   
+     282 T002  281 UNX  FE   FE                   
+     283 T000  282 UNX  FE   FE                   
+     284 T001  283 UNX  FE   FE                   
+     285 T002  284 UNX  FE   FE                   
+     286 T000  285 UNX  FE   FE                   
+     287 T001  286 UNX  FE   FE                   
+     288 T002  287 UNX  FE   FE                   
+     289 T000  288 UNX  FE   FE                   
+     290 T001  289 UNX  FE   FE                   
+     291 T002  290 UNX  FE   FE                   
+     292 T000  291 UNX  FE   FE                   
+     293 T001  292 UNX  FE   FE                   
+     294 T002  293 UNX  FE   FE                   
+     295 T000  294 UNX  FE   FE                   
+     296 T001  295 UNX  FE   FE                   
+     297 T002  296 UNX  FE   FE                   
+     298 T000  297 UNX  FE   FE                   
+     299 T001  298 UNX  FE   FE                   
+     300 T002  299 UNX  FE   FE                   
+     301 T000  300 UNX  FE   FE                   
+     302 T001  301 UNX  FE   FE                   
+     303 T002  302 UNX  FE   FE                   
+     304 T000  303 UNX  FE   FE                   
+     305 T001  304 UNX  FE   FE                   
+     306 T002  305 UNX  FE   FE                   
+     307 T000  306 UNX  FE   FE                   
+     308 T001  307 UNX  FE   FE                   
+     309 T002  308 UNX  FE   FE                   
+     310 T000  309 UNX  FE   FE                   
+     311 T001  310 UNX  FE   FE                   
+     312 T002  311 UNX  FE   FE                   
+     313 T000  312 UNX  FE   FE                   
+     314 T001  313 UNX  FE   FE                   
+     315 T002  314 UNX  FE   FE                   
+     316 T000  315 UNX  FE   FE                   
+     317 T001  316 UNX  FE   FE                   
+     318 T002  317 UNX  FE   FE                   
+     319 T000  318 UNX  FE   FE                   
+     320 T001  319 UNX  FE   FE                   
+     321 T002  320 UNX  FE   FE                   
+     322 T000  321 UNX  FE   FE                   
+     323 T001  322 UNX  FE   FE                   
+     324 T002  323 UNX  FE   FE                   
+     325 T000  324 UNX  FE   FE                   
+     326 T001  325 UNX  FE   FE                   
+     327 T002  326 UNX  FE   FE                   
+     328 T000  327 UNX  FE   FE                   
+     329 T001  328 UNX  FE   FE                   
+     330 T002  329 UNX  FE   FE                   
+     331 T000  330 UNX  FE   FE                   
+     332 T001  331 UNX  FE   FE                   
+     333 T002  332 UNX  FE   FE                   
+     334 T000  333 UNX  FE   FE                   
+     335 T001  334 UNX  FE   FE                   
+     336 T002  335 UNX  FE   FE                   
+     337 T000  336 UNX  FE   FE                   
+     338 T001  337 UNX  FE   FE                   
+     339 T002  338 UNX  FE   FE                   
+     340 T000  339 UNX  FE   FE                   
+     341 T001  340 UNX  FE   FE                   
+     342 T002  341 UNX  FE   FE                   
+     343 T000  342 UNX  FE   FE                   
+     344 T001  343 UNX  FE   FE                   
+     345 T002  344 UNX  FE   FE                   
+     346 T000  345 UNX  FE   FE                   
+     347 T001  346 UNX  FE   FE                   
+     348 T002  347 UNX  FE   FE                   
+     349 T000  348 UNX  FE   FE                   
+     350 T001  349 UNX  FE   FE                   
+     351 T002  350 UNX  FE   FE                   
+     352 T000  351 UNX  FE   FE                   
+     353 T001  352 UNX  FE   FE                   
+     354 T002  353 UNX  FE   FE                   
+     355 T000  354 UNX  FE   FE                   
+     356 T001  355 UNX  FE   FE                   
+     357 T002  356 UNX  FE   FE                   
+     358 T000  357 UNX  FE   FE                   
+     359 T001  358 UNX  FE   FE                   
+     360 T002  359 UNX  FE   FE                   
+     361 T000  360 UNX  FE   FE                   
+     362 T001  361 UNX  FE   FE                   
+     363 T002  362 UNX  FE   FE                   
+     364 T000  363 UNX  FE   FE                   
+     365 T001  364 UNX  FE   FE                   
+     366 T002  365 UNX  FE   FE                   
+     367 T000  366 UNX  FE   FE                   
+     368 T001  367 UNX  FE   FE                   
+     369 T002  368 UNX  FE   FE                   
+     370 T000  369 UNX  FE   FE                   
+     371 T001  370 UNX  FE   FE                   
+     372 T002  371 UNX  FE   FE                   
+     373 T000  372 UNX  FE   FE                   
+     374 T001  373 UNX  FE   FE                   
+     375 T002  374 UNX  FE   FE                   
+     376 T000  375 UNX  FE   FE                   
+     377 T001  376 UNX  FE   FE                   
+     378 T002  377 UNX  FE   FE                   
+     379 T000  378 UNX  FE   FE                   
+     380 T001  379 UNX  FE   FE                   
+     381 T002  380 UNX  FE   FE                   
+     382 T000  381 UNX  FE   FE                   
+     383 T001  382 UNX  FE   FE                   
+     384 T002  383 UNX  FE   FE                   
+     385 T000  384 UNX  FE   FE                   
+     386 T001  385 UNX  FE   FE                   
+     387 T002  386 UNX  FE   FE                   
+     388 T000  387 UNX  FE   FE                   
+     389 T001  388 UNX  FE   FE                   
+     390 T002  389 UNX  FE   FE                   
+     391 T000  390 UNX  FE   FE                   
+     392 T001  391 UNX  FE   FE                   
+     393 T002  392 UNX  FE   FE                   
+     394 T000  393 UNX  FE   FE                   
+     395 T001  394 UNX  FE   FE                   
+     396 T002  395 UNX  FE   FE                   
+     397 T000  396 UNX  FE   FE                   
+     398 T001  397 UNX  FE   FE                   
+     399 T002  398 UNX  FE   FE                   
+     400 T000  399 UNX  FE   FE                   
+     401 T001  400 UNX  FE   FE                   
+     402 T002  401 UNX  FE   FE                   
+     403 T000  402 UNX  FE   FE                   
+     404 T001  403 UNX  FE   FE                   
+     405 T002  404 UNX  FE   FE                   
+     406 T000  405 UNX  FE   FE                   
+     407 T001  406 UNX  FE   FE                   
+     408 T002  407 UNX  FE   FE                   
+     409 T000  408 UNX  FE   FE                   
+     410 T001  409 UNX  FE   FE                   
+     411 T002  410 UNX  FE   FE                   
+     412 T000  411 UNX  FE   FE                   
+     413 T001  412 UNX  FE   FE                   
+     414 T002  413 UNX  FE   FE                   
+     415 T000  414 UNX  FE   FE                   
+     416 T001  415 UNX  FE   FE                   
+     417 T002  416 UNX  FE   FE                   
+     418 T000  417 UNX  FE   FE                   
+     419 T001  418 UNX  FE   FE                   
+     420 T002  419 UNX  FE   FE                   
+     421 T000  420 UNX  FE   FE                   
+     422 T001  421 UNX  FE   FE                   
+     423 T002  422 UNX  FE   FE                   
+     424 T000  423 UNX  FE   FE                   
+     425 T001  424 UNX  FE   FE                   
+     426 T002  425 UNX  FE   FE                   
+     427 T000  426 UNX  FE   FE                   
+     428 T001  427 UNX  FE   FE                   
+     429 T002  428 UNX  FE   FE                   
+     430 T000  429 UNX  FE   FE                   
+     431 T001  430 UNX  FE   FE                   
+     432 T002  431 UNX  FE   FE                   
+     433 T000  432 UNX  FE   FE                   
+     434 T001  433 UNX  FE   FE                   
+     435 T002  434 UNX  FE   FE                   
+     436 T000  435 UNX  FE   FE                   
+     437 T001  436 UNX  FE   FE                   
+     438 T002  437 UNX  FE   FE                   
+     439 T000  438 UNX  FE   FE                   
+     440 T001  439 UNX  FE   FE                   
+     441 T002  440 UNX  FE   FE                   
+     442 T000  441 UNX  FE   FE                   
+     443 T001  442 UNX  FE   FE                   
+     444 T002  443 UNX  FE   FE                   
+     445 T000  444 UNX  FE   FE                   
+     446 T001  445 UNX  FE   FE                   
+     447 T002  446 UNX  FE   FE                   
+     448 T000  447 UNX  FE   FE                   
+     449 T001  448 UNX  FE   FE                   
+     450 T002  449 UNX  FE   FE                   
+     451 T000  450 UNX  FE   FE                   
+     452 T001  451 UNX  FE   FE                   
+     453 T002  452 UNX  FE   FE                   
+     454 T000  453 UNX  FE   FE                   
+     455 T001  454 UNX  FE   FE                   
+     456 T002  455 UNX  FE   FE                   
+     457 T000  456 UNX  FE   FE                   
+     458 T001  457 UNX  FE   FE                   
+     459 T002  458 UNX  FE   FE                   
+     460 T000  459 UNX  FE   FE                   
+     461 T001  460 UNX  FE   FE                   
+     462 T002  461 UNX  FE   FE                   
+     463 T000  462 UNX  FE   FE                   
+     464 T001  463 UNX  FE   FE                   
+     465 T002  464 UNX  FE   FE                   
+     466 T000  465 UNX  FE   FE                   
+     467 T001  466 UNX  FE   FE                   
+     468 T002  467 UNX  FE   FE                   
+     469 T000  468 UNX  FE   FE                   
+     470 T001  469 UNX  FE   FE                   
+     471 T002  470 UNX  FE   FE                   
+     472 T000  471 UNX  FE   FE                   
+     473 T001  472 UNX  FE   FE                   
+     474 T002  473 UNX  FE   FE                   
+     475 T000  474 UNX  FE   FE                   
+     476 T001  475 UNX  FE   FE                   
+     477 T002  476 UNX  FE   FE                   
+     478 T000  477 UNX  FE   FE                   
+     479 T001  478 UNX  FE   FE                   
+     480 T002  479 UNX  FE   FE                   
+     481 T000  480 UNX  FE   FE                   
+     482 T001  481 UNX  FE   FE                   
+     483 T002  482 UNX  FE   FE                   
+     484 T000  483 UNX  FE   FE                   
+     485 T001  484 UNX  FE   FE                   
+     486 T002  485 UNX  FE   FE                   
+     487 T000  486 UNX  FE   FE                   
+     488 T001  487 UNX  FE   FE                   
+     489 T002  488 UNX  FE   FE                   
+     490 T000  489 UNX  FE   FE                   
+     491 T001  490 UNX  FE   FE                   
+     492 T002  491 UNX  FE   FE                   
+     493 T000  492 UNX  FE   FE                   
+     494 T001  493 UNX  FE   FE                   
+     495 T002  494 UNX  FE   FE                   
+     496 T000  495 UNX  FE   FE                   
+     497 T001  496 UNX  FE   FE                   
+     498 T002  497 UNX  FE   FE                   
+     499 T000  498 UNX  FE   FE                   
+     500 T001  499 UNX  FE   FE                   
+     501 T002  500 UNX  FE   FE                   
+     502 T000  501 UNX  FE   FE                   
+     503 T001  502 UNX  FE   FE                   
+     504 T002  503 UNX  FE   FE                   
+     505 T000  504 UNX  FE   FE                   
+     506 T001  505 UNX  FE   FE                   
+     507 T002  506 UNX  FE   FE                   
+     508 T000  507 UNX  FE   FE                   
+     509 T001  508 UNX  FE   FE                   
+     510 T002  509 UNX  FE   FE                   
+     511 T000  510 UNX  FE   FE                   
+     512 T001  511 UNX  FE   FE                   
+     513 T002  512 UNX  FE   FE                   
+     514 T000  513 UNX  FE   FE                   
+     515 T001  514 UNX  FE   FE                   
+     516 T002  515 UNX  FE   FE                   
+     517 T000  516 UNX  FE   FE                   
+     518 T001  517 UNX  FE   FE                   
+     519 T002  518 UNX  FE   FE                   
+     520 T000  519 UNX  FE   FE                   
+     521 T001  520 UNX  FE   FE                   
+     522 T002  521 UNX  FE   FE                   
+     523 T000  522 UNX  FE   FE                   
+     524 T001  523 UNX  FE   FE                   
+     525 T002  524 UNX  FE   FE                   
+     526 T000  525 UNX  FE   FE                   
+     527 T001  526 UNX  FE   FE                   
+     528 T002  527 UNX  FE   FE                   
+     529 T000  528 UNX  FE   FE                   
+     530 T001  529 UNX  FE   FE                   
+     531 T002  530 UNX  FE   FE                   
+     532 T000  531 UNX  FE   FE                   
+     533 T001  532 UNX  FE   FE                   
+     534 T002  533 UNX  FE   FE                   
+     535 T000  534 UNX  FE   FE                   
+     536 T001  535 UNX  FE   FE                   
+     537 T002  536 UNX  FE   FE                   
+     538 T000  537 UNX  FE   FE                   
+     539 T001  538 UNX  FE   FE                   
+     540 T002  539 UNX  FE   FE                   
+     541 T000  540 UNX  FE   FE                   
+     542 T001  541 UNX  FE   FE                   
+     543 T002  542 UNX  FE   FE                   
+     544 T000  543 UNX  FE   FE                   
+     545 T001  544 UNX  FE   FE                   
+     546 T002  545 UNX  FE   FE                   
+     547 T000  546 UNX  FE   FE                   
+     548 T001  547 UNX  FE   FE                   
+     549 T002  548 UNX  FE   FE                   
+     550 T000  549 UNX  FE   FE                   
+     551 T001  550 UNX  FE   FE                   
+     552 T002  551 UNX  FE   FE                   
+     553 T000  552 UNX  FE   FE                   
+     554 T001  553 UNX  FE   FE                   
+     555 T002  554 UNX  FE   FE                   
+     556 T000  555 UNX  FE   FE                   
+     557 T001  556 UNX  FE   FE                   
+     558 T002  557 UNX  FE   FE                   
+     559 T000  558 UNX  FE   FE                   
+     560 T001  559 UNX  FE   FE                   
+     561 T002  560 UNX  FE   FE                   
+     562 T000  561 UNX  FE   FE                   
+     563 T001  562 UNX  FE   FE                   
+     564 T002  563 UNX  FE   FE                   
+     565 T000  564 UNX  FE   FE                   
+     566 T001  565 UNX  FE   FE                   
+     567 T002  566 UNX  FE   FE                   
+     568 T000  567 UNX  FE   FE                   
+     569 T001  568 UNX  FE   FE                   
+     570 T002  569 UNX  FE   FE                   
+     571 T000  570 UNX  FE   FE                   
+     572 T001  571 UNX  FE   FE                   
+     573 T002  572 UNX  FE   FE                   
+     574 T000  573 UNX  FE   FE                   
+     575 T001  574 UNX  FE   FE                   
+     576 T002  575 UNX  FE   FE                   
+     577 T000  576 UNX  FE   FE                   
+     578 T001  577 UNX  FE   FE                   
+     579 T002  578 UNX  FE   FE                   
+     580 T000  579 UNX  FE   FE                   
+     581 T001  580 UNX  FE   FE                   
+     582 T002  581 UNX  FE   FE                   
+     583 T000  582 UNX  FE   FE                   
+     584 T001  583 UNX  FE   FE                   
+     585 T002  584 UNX  FE   FE                   
+     586 T000  585 UNX  FE   FE                   
+     587 T001  586 UNX  FE   FE                   
+     588 T002  587 UNX  FE   FE                   
+     589 T000  588 UNX  FE   FE                   
+     590 T001  589 UNX  FE   FE                   
+     591 T002  590 UNX  FE   FE                   
+     592 T000  591 UNX  FE   FE                   
+     593 T001  592 UNX  FE   FE                   
+     594 T002  593 UNX  FE   FE                   
+     595 T000  594 UNX  FE   FE                   
+     596 T001  595 UNX  FE   FE                   
+     597 T002  596 UNX  FE   FE                   
+     598 T000  597 UNX  FE   FE                   
+     599 T001  598 UNX  FE   FE                   
+     600 T002  599 UNX  FE   FE                   
+     601 T000  600 UNX  FE   FE                   
+     602 T001  601 UNX  FE   FE                   
+     603 T002  602 UNX  FE   FE                   
+     604 T000  603 UNX  FE   FE                   
+     605 T001  604 UNX  FE   FE                   
+     606 T002  605 UNX  FE   FE                   
+     607 T000  606 UNX  FE   FE                   
+     608 T001  607 UNX  FE   FE                   
+     609 T002  608 UNX  FE   FE                   
+     610 T000  609 UNX  FE   FE                   
+     611 T001  610 UNX  FE   FE                   
+     612 T002  611 UNX  FE   FE                   
+     613 T000  612 UNX  FE   FE                   
+     614 T001  613 UNX  FE   FE                   
+     615 T002  614 UNX  FE   FE                   
+     616 T000  615 UNX  FE   FE                   
+     617 T001  616 UNX  FE   FE                   
+     618 T002  617 UNX  FE   FE                   
+     619 T000  618 UNX  FE   FE                   
+     620 T001  619 UNX  FE   FE                   
+     621 T002  620 UNX  FE   FE                   
+     622 T000  621 UNX  FE   FE                   
+     623 T001  622 UNX  FE   FE                   
+     624 T002  623 UNX  FE   FE                   
+     625 T000  624 UNX  FE   FE                   
+     626 T001  625 UNX  FE   FE                   
+     627 T002  626 UNX  FE   FE                   
+     628 T000  627 UNX  FE   FE                   
+     629 T001  628 UNX  FE   FE                   
+     630 T002  629 UNX  FE   FE                   
+     631 T000  630 UNX  FE   FE                   
+     632 T001  631 UNX  FE   FE                   
+     633 T002  632 UNX  FE   FE                   
+     634 T000  633 UNX  FE   FE                   
+     635 T001  634 UNX  FE   FE                   
+     636 T002  635 UNX  FE   FE                   
+     637 T000  636 UNX  FE   FE                   
+     638 T001  637 UNX  FE   FE                   
+     639 T002  638 UNX  FE   FE                   
+     640 T000  639 UNX  FE   FE                   
+     641 T001  640 UNX  FE   FE                   
+     642 T002  641 UNX  FE   FE                   
+     643 T000  642 UNX  FE   FE                   
+     644 T001  643 UNX  FE   FE                   
+     645 T002  644 UNX  FE   FE                   
+     646 T000  645 UNX  FE   FE                   
+     647 T001  646 UNX  FE   FE                   
+     648 T002  647 UNX  FE   FE                   
+     649 T000  648 UNX  FE   FE                   
+     650 T001  649 UNX  FE   FE                   
+     651 T002  650 UNX  FE   FE                   
+     652 T000  651 UNX  FE   FE                   
+     653 T001  652 UNX  FE   FE                   
+     654 T002  653 UNX  FE   FE                   
+     655 T000  654 UNX  FE   FE                   
+     656 T001  655 UNX  FE   FE                   
+     657 T002  656 UNX  FE   FE                   
+     658 T000  657 UNX  FE   FE                   
+     659 T001  658 UNX  FE   FE                   
+     660 T002  659 UNX  FE   FE                   
+     661 T000  660 UNX  FE   FE                   
+     662 T001  661 UNX  FE   FE                   
+     663 T002  662 UNX  FE   FE                   
+     664 T000  663 UNX  FE   FE                   
+     665 T001  664 UNX  FE   FE                   
+     666 T002  665 UNX  FE   FE                   
+     667 T000  666 UNX  FE   FE                   
+     668 T001  667 UNX  FE   FE                   
+     669 T002  668 UNX  FE   FE                   
+     670 T000  669 UNX  FE   FE                   
+     671 T001  670 UNX  FE   FE                   
+     672 T002  671 UNX  FE   FE                   
+     673 T000  672 UNX  FE   FE                   
+     674 T001  673 UNX  FE   FE                   
+     675 T002  674 UNX  FE   FE                   
+     676 T000  675 UNX  FE   FE                   
+     677 T001  676 UNX  FE   FE                   
+     678 T002  677 UNX  FE   FE                   
+     679 T000  678 UNX  FE   FE                   
+     680 T001  679 UNX  FE   FE                   
+     681 T002  680 UNX  FE   FE                   
+     682 T000  681 UNX  FE   FE                   
+     683 T001  682 UNX  FE   FE                   
+     684 T002  683 UNX  FE   FE                   
+     685 T000  684 UNX  FE   FE                   
+     686 T001  685 UNX  FE   FE                   
+     687 T002  686 UNX  FE   FE                   
+     688 T000  687 UNX  FE   FE                   
+     689 T001  688 UNX  FE   FE                   
+     690 T002  689 UNX  FE   FE                   
+     691 T000  690 UNX  FE   FE                   
+     692 T001  691 UNX  FE   FE                   
+     693 T002  692 UNX  FE   FE                   
+     694 T000  693 UNX  FE   FE                   
+     695 T001  694 UNX  FE   FE                   
+     696 T002  695 UNX  FE   FE                   
+     697 T000  696 UNX  FE   FE                   
+     698 T001  697 UNX  FE   FE                   
+     699 T002  698 UNX  FE   FE                   
+     700 T000  699 UNX  FE   FE                   
+     701 T001  700 UNX  FE   FE                   
+     702 T002  701 UNX  FE   FE                   
+     703 T000  702 UNX  FE   FE                   
+     704 T001  703 UNX  FE   FE                   
+     705 T002  704 UNX  FE   FE                   
+     706 T000  705 UNX  FE   FE                   
+     707 T001  706 UNX  FE   FE                   
+     708 T002  707 UNX  FE   FE                   
+     709 T000  708 UNX  FE   FE                   
+     710 T001  709 UNX  FE   FE                   
+     711 T002  710 UNX  FE   FE                   
+     712 T000  711 UNX  FE   FE                   
+     713 T001  712 UNX  FE   FE                   
+     714 T002  713 UNX  FE   FE                   
+     715 T000  714 UNX  FE   FE                   
+     716 T001  715 UNX  FE   FE                   
+     717 T002  716 UNX  FE   FE                   
+     718 T000  717 UNX  FE   FE                   
+     719 T001  718 UNX  FE   FE                   
+     720 T002  719 UNX  FE   FE                   
+     721 T000  720 UNX  FE   FE                   
+     722 T001  721 UNX  FE   FE                   
+     723 T002  722 UNX  FE   FE                   
+     724 T000  723 UNX  FE   FE                   
+     725 T001  724 UNX  FE   FE                   
+     726 T002  725 UNX  FE   FE                   
+     727 T000  726 UNX  FE   FE                   
+     728 T001  727 UNX  FE   FE                   
+     729 T002  728 UNX  FE   FE                   
+     730 T000  729 UNX  FE   FE                   
+     731 T001  730 UNX  FE   FE                   
+     732 T002  731 UNX  FE   FE                   
+     733 T000  732 UNX  FE   FE                   
+     734 T001  733 UNX  FE   FE                   
+     735 T002  734 UNX  FE   FE                   
+     736 T000  735 UNX  FE   FE                   
+     737 T001  736 UNX  FE   FE                   
+     738 T002  737 UNX  FE   FE                   
+     739 T000  738 UNX  FE   FE                   
+     740 T001  739 UNX  FE   FE                   
+     741 T002  740 UNX  FE   FE                   
+     742 T000  741 UNX  FE   FE                   
+     743 T001  742 UNX  FE   FE                   
+     744 T002  743 UNX  FE   FE                   
+     745 T000  744 UNX  FE   FE                   
+     746 T001  745 UNX  FE   FE                   
+     747 T002  746 UNX  FE   FE                   
+     748 T000  747 UNX  FE   FE                   
+     749 T001  748 UNX  FE   FE                   
+     750 T002  749 UNX  FE   FE                   
+     751 T000  750 UNX  FE   FE                   
+     752 T001  751 UNX  FE   FE                   
+     753 T002  752 UNX  FE   FE                   
+     754 T000  753 UNX  FE   FE                   
+     755 T001  754 UNX  FE   FE                   
+     756 T002  755 UNX  FE   FE                   
+     757 T000  756 UNX  FE   FE                   
+     758 T001  757 UNX  FE   FE                   
+     759 T002  758 UNX  FE   FE                   
+     760 T000  759 UNX  FE   FE                   
+     761 T001  760 UNX  FE   FE                   
+     762 T002  761 UNX  FE   FE                   
+     763 T000  762 UNX  FE   FE                   
+     764 T001  763 UNX  FE   FE                   
+     765 T002  764 UNX  FE   FE                   
+     766 T000  765 UNX  FE   FE                   
+     767 T001  766 UNX  FE   FE                   
+     768 T002  767 UNX  FE   FE                   
+     769 T000  768 UNX  FE   FE                   
+     770 T001  769 UNX  FE   FE                   
+     771 T002  770 UNX  FE   FE                   
+     772 T000  771 UNX  FE   FE                   
+     773 T001  772 UNX  FE   FE                   
+     774 T002  773 UNX  FE   FE                   
+     775 T000  774 UNX  FE   FE                   
+     776 T001  775 UNX  FE   FE                   
+     777 T002  776 UNX  FE   FE                   
+     778 T000  777 UNX  FE   FE                   
+     779 T001  778 UNX  FE   FE                   
+     780 T002  779 UNX  FE   FE                   
+     781 T000  780 UNX  FE   FE                   
+     782 T001  781 UNX  FE   FE                   
+     783 T002  782 UNX  FE   FE                   
+     784 T000  783 UNX  FE   FE                   
+     785 T001  784 UNX  FE   FE                   
+     786 T002  785 UNX  FE   FE                   
+     787 T000  786 UNX  FE   FE                   
+     788 T001  787 UNX  FE   FE                   
+     789 T002  788 UNX  FE   FE                   
+     790 T000  789 UNX  FE   FE                   
+     791 T001  790 UNX  FE   FE                   
+     792 T002  791 UNX  FE   FE                   
+     793 T000  792 UNX  FE   FE                   
+     794 T001  793 UNX  FE   FE                   
+     795 T002  794 UNX  FE   FE                   
+     796 T000  795 UNX  FE   FE                   
+     797 T001  796 UNX  FE   FE                   
+     798 T002  797 UNX  FE   FE                   
+     799 T000  798 UNX  FE   FE                   
+     800 T001  799 UNX  FE   FE                   
+     801 T002  800 UNX  FE   FE                   
+     802 T000  801 UNX  FE   FE                   
+     803 T001  802 UNX  FE   FE                   
+     804 T002  803 UNX  FE   FE                   
+     805 T000  804 UNX  FE   FE                   
+     806 T001  805 UNX  FE   FE                   
+     807 T002  806 UNX  FE   FE                   
+     808 T000  807 UNX  FE   FE                   
+     809 T001  808 UNX  FE   FE                   
+     810 T002  809 UNX  FE   FE                   
+     811 T000  810 UNX  FE   FE                   
+     812 T001  811 UNX  FE   FE                   
+     813 T002  812 UNX  FE   FE                   
+     814 T000  813 UNX  FE   FE                   
+     815 T001  814 UNX  FE   FE                   
+     816 T002  815 UNX  FE   FE                   
+     817 T000  816 UNX  FE   FE                   
+     818 T001  817 UNX  FE   FE                   
+     819 T002  818 UNX  FE   FE                   
+     820 T000  819 UNX  FE   FE                   
+     821 T001  820 UNX  FE   FE                   
+     822 T002  821 UNX  FE   FE                   
+     823 T000  822 UNX  FE   FE                   
+     824 T001  823 UNX  FE   FE                   
+     825 T002  824 UNX  FE   FE                   
+     826 T000  825 UNX  FE   FE                   
+     827 T001  826 UNX  FE   FE                   
+     828 T002  827 UNX  FE   FE                   
+     829 T000  828 UNX  FE   FE                   
+     830 T001  829 UNX  FE   FE                   
+     831 T002  830 UNX  FE   FE                   
+     832 T000  831 UNX  FE   FE                   
+     833 T001  832 UNX  FE   FE                   
+     834 T002  833 UNX  FE   FE                   
+     835 T000  834 UNX  FE   FE                   
+     836 T001  835 UNX  FE   FE                   
+     837 T002  836 UNX  FE   FE                   
+     838 T000  837 UNX  FE   FE                   
+     839 T001  838 UNX  FE   FE                   
+     840 T002  839 UNX  FE   FE                   
+     841 T000  840 UNX  FE   FE                   
+     842 T001  841 UNX  FE   FE                   
+     843 T002  842 UNX  FE   FE                   
+     844 T000  843 UNX  FE   FE                   
+     845 T001  844 UNX  FE   FE                   
+     846 T002  845 UNX  FE   FE                   
+     847 T000  846 UNX  FE   FE                   
+     848 T001  847 UNX  FE   FE                   
+     849 T002  848 UNX  FE   FE                   
+     850 T000  849 UNX  FE   FE                   
+     851 T001  850 UNX  FE   FE                   
+     852 T002  851 UNX  FE   FE                   
+     853 T000  852 UNX  FE   FE                   
+     854 T001  853 UNX  FE   FE                   
+     855 T002  854 UNX  FE   FE                   
+     856 T000  855 UNX  FE   FE                   
+     857 T001  856 UNX  FE   FE                   
+     858 T002  857 UNX  FE   FE                   
+     859 T000  858 UNX  FE   FE                   
+     860 T001  859 UNX  FE   FE                   
+     861 T002  860 UNX  FE   FE                   
+     862 T000  861 UNX  FE   FE                   
+     863 T001  862 UNX  FE   FE                   
+     864 T002  863 UNX  FE   FE                   
+     865 T000  864 UNX  FE   FE                   
+     866 T001  865 UNX  FE   FE                   
+     867 T002  866 UNX  FE   FE                   
+     868 T000  867 UNX  FE   FE                   
+     869 T001  868 UNX  FE   FE                   
+     870 T002  869 UNX  FE   FE                   
+     871 T000  870 UNX  FE   FE                   
+     872 T001  871 UNX  FE   FE                   
+     873 T002  872 UNX  FE   FE                   
+     874 T000  873 UNX  FE   FE                   
+     875 T001  874 UNX  FE   FE                   
+     876 T002  875 UNX  FE   FE                   
+     877 T000  876 UNX  FE   FE                   
+     878 T001  877 UNX  FE   FE                   
+     879 T002  878 UNX  FE   FE                   
+     880 T000  879 UNX  FE   FE                   
+     881 T001  880 UNX  FE   FE                   
+     882 T002  881 UNX  FE   FE                   
+     883 T000  882 UNX  FE   FE                   
+     884 T001  883 UNX  FE   FE                   
+     885 T002  884 UNX  FE   FE                   
+     886 T000  885 UNX  FE   FE                   
+     887 T001  886 UNX  FE   FE                   
+     888 T002  887 UNX  FE   FE                   
+     889 T000  888 UNX  FE   FE                   
+     890 T001  889 UNX  FE   FE                   
+     891 T002  890 UNX  FE   FE                   
+     892 T000  891 UNX  FE   FE                   
+     893 T001  892 UNX  FE   FE                   
+     894 T002  893 UNX  FE   FE                   
+     895 T000  894 UNX  FE   FE                   
+     896 T001  895 UNX  FE   FE                   
+     897 T002  896 UNX  FE   FE                   
+     898 T000  897 UNX  FE   FE                   
+     899 T001  898 UNX  FE   FE                   
+     900 T002  899 UNX  FE   FE                   
+     901 T000  900 UNX  FE   FE                   
+     902 T001  901 UNX  FE   FE                   
+     903 T002  902 UNX  FE   FE                   
+     904 T000  903 UNX  FE   FE                   
+     905 T001  904 UNX  FE   FE                   
+     906 T002  905 UNX  FE   FE                   
+     907 T000  906 UNX  FE   FE                   
+     908 T001  907 UNX  FE   FE                   
+     909 T002  908 UNX  FE   FE                   
+     910 T000  909 UNX  FE   FE                   
+     911 T001  910 UNX  FE   FE                   
+     912 T002  911 UNX  FE   FE                   
+     913 T000  912 UNX  FE   FE                   
+     914 T001  913 UNX  FE   FE                   
+     915 T002  914 UNX  FE   FE                   
+     916 T000  915 UNX  FE   FE                   
+     917 T001  916 UNX  FE   FE                   
+     918 T002  917 UNX  FE   FE                   
+     919 T000  918 UNX  FE   FE                   
+     920 T001  919 UNX  FE   FE                   
+     921 T002  920 UNX  FE   FE                   
+     922 T000  921 UNX  FE   FE                   
+     923 T001  922 UNX  FE   FE                   
+     924 T002  923 UNX  FE   FE                   
+     925 T000  924 UNX  FE   FE                   
+     926 T001  925 UNX  FE   FE                   
+     927 T002  926 UNX  FE   FE                   
+     928 T000  927 UNX  FE   FE                   
+     929 T001  928 UNX  FE   FE                   
+     930 T002  929 UNX  FE   FE                   
+     931 T000  930 UNX  FE   FE                   
+     932 T001  931 UNX  FE   FE                   
+     933 T002  932 UNX  FE   FE                   
+     934 T000  933 UNX  FE   FE                   
+     935 T001  934 UNX  FE   FE                   
+     936 T002  935 UNX  FE   FE                   
+     937 T000  936 UNX  FE   FE                   
+     938 T001  937 UNX  FE   FE                   
+     939 T002  938 UNX  FE   FE                   
+     940 T000  939 UNX  FE   FE                   
+     941 T001  940 UNX  FE   FE                   
+     942 T002  941 UNX  FE   FE                   
+     943 T000  942 UNX  FE   FE                   
+     944 T001  943 UNX  FE   FE                   
+     945 T002  944 UNX  FE   FE                   
+     946 T000  945 UNX  FE   FE                   
+     947 T001  946 UNX  FE   FE                   
+     948 T002  947 UNX  FE   FE                   
+     949 T000  948 UNX  FE   FE                   
+     950 T001  949 UNX  FE   FE                   
+     951 T002  950 UNX  FE   FE                   
+     952 T000  951 UNX  FE   FE                   
+     953 T001  952 UNX  FE   FE                   
+     954 T002  953 UNX  FE   FE                   
+     955 T000  954 UNX  FE   FE                   
+     956 T001  955 UNX  FE   FE                   
+     957 T002  956 UNX  FE   FE                   
+     958 T000  957 UNX  FE   FE                   
+     959 T001  958 UNX  FE   FE                   
+     960 T002  959 UNX  FE   FE                   
+     961 T000  960 UNX  FE   FE                   
+     962 T001  961 UNX  FE   FE                   
+     963 T002  962 UNX  FE   FE                   
+     964 T000  963 UNX  FE   FE                   
+     965 T001  964 UNX  FE   FE                   
+     966 T002  965 UNX  FE   FE                   
+     967 T000  966 UNX  FE   FE                   
+     968 T001  967 UNX  FE   FE                   
+     969 T002  968 UNX  FE   FE                   
+     970 T000  969 UNX  FE   FE                   
+     971 T001  970 UNX  FE   FE                   
+     972 T002  971 UNX  FE   FE                   
+     973 T000  972 UNX  FE   FE                   
+     974 T001  973 UNX  FE   FE                   
+     975 T002  974 UNX  FE   FE                   
+     976 T000  975 UNX  FE   FE                   
+     977 T001  976 UNX  FE   FE                   
+     978 T002  977 UNX  FE   FE                   
+     979 T000  978 UNX  FE   FE                   
+     980 T001  979 UNX  FE   FE                   
+     981 T002  980 UNX  FE   FE                   
+     982 T000  981 UNX  FE   FE                   
+     983 T001  982 UNX  FE   FE                   
+     984 T002  983 UNX  FE   FE                   
+     985 T000  984 UNX  FE   FE                   
+     986 T001  985 UNX  FE   FE                   
+     987 T002  986 UNX  FE   FE                   
+     988 T000  987 UNX  FE   FE                   
+     989 T001  988 UNX  FE   FE                   
+     990 T002  989 UNX  FE   FE                   
+     991 T000  990 UNX  FE   FE                   
+     992 T001  991 UNX  FE   FE                   
+     993 T002  992 UNX  FE   FE                   
+     994 T000  993 UNX  FE   FE                   
+     995 T001  994 UNX  FE   FE                   
+     996 T002  995 UNX  FE   FE                   
+     997 T000  996 UNX  FE   FE                   
+     998 T001  997 UNX  FE   FE                   
+     999 T002  998 UNX  FE   FE                   
+    1000 T000  999 UNX  FE   FE                   
+    1001 T001 1000 UNX  FE   FE                   
+    1002 T002 1001 UNX  FE   FE                   
+    1003 T000 1002 UNX  FE   FE                   
+    1004 T001 1003 UNX  FE   FE                   
+    1005 T002 1004 UNX  FE   FE                   
+    1006 T000 1005 UNX  FE   FE                   
+    1007 T001 1006 UNX  FE   FE                   
+    1008 T002 1007 UNX  FE   FE                   
+    1009 T000 1008 UNX  FE   FE                   
+    1010 T001 1009 UNX  FE   FE                   
+    1011 T002 1010 UNX  FE   FE                   
+    1012 T000 1011 UNX  FE   FE                   
+    1013 T001 1012 UNX  FE   FE                   
+    1014 T002 1013 UNX  FE   FE                   
+    1015 T000 1014 UNX  FE   FE                   
+    1016 T001 1015 UNX  FE   FE                   
+    1017 T002 1016 UNX  FE   FE                   
+    1018 T000 1017 UNX  FE   FE                   
+    1019 T001 1018 UNX  FE   FE                   
+    1020 T002 1019 UNX  FE   FE                   
+    1021 T000 1020 UNX  FE   FE                   
+    1022 T001 1021 UNX  FE   FE                   
+    1023 T002 1022 UNX  FE   FE                   
+    1024 T000 1023 UNX  FE   FE                   
+    1025 T001 1024 UNX  FE   FE                   
+    1026 T002 1025 UNX  FE   FE                   
+    1027 T000 1026 UNX  FE   FE                   
+    1028 T001 1027 UNX  FE   FE                   
+    1029 T002 1028 UNX  FE   FE                   
+    1030 T000 1029 UNX  FE   FE                   
+    1031 T001 1030 UNX  FE   FE                   
+    1032 T002 1031 UNX  FE   FE                   
+    1033 T000 1032 UNX  FE   FE                   
+    1034 T001 1033 UNX  FE   FE                   
+    1035 T002 1034 UNX  FE   FE                   
+    1036 T000 1035 UNX  FE   FE                   
+    1037 T001 1036 UNX  FE   FE                   
+    1038 T002 1037 UNX  FE   FE                   
+    1039 T000 1038 UNX  FE   FE                   
+    1040 T001 1039 UNX  FE   FE                   
+    1041 T002 1040 UNX  FE   FE                   
+    1042 T000 1041 UNX  FE   FE                   
+    1043 T001 1042 UNX  FE   FE                   
+    1044 T002 1043 UNX  FE   FE                   
+    1045 T000 1044 UNX  FE   FE                   
+    1046 T001 1045 UNX  FE   FE                   
+    1047 T002 1046 UNX  FE   FE                   
+    1048 T000 1047 UNX  FE   FE                   
+    1049 T001 1048 UNX  FE   FE                   
+    1050 T002 1049 UNX  FE   FE                   
+    1051 T000 1050 UNX  FE   FE                   
+    1052 T001 1051 UNX  FE   FE                   
+    1053 T002 1052 UNX  FE   FE                   
+    1054 T000 1053 UNX  FE   FE                   
+    1055 T001 1054 UNX  FE   FE                   
+    1056 T002 1055 UNX  FE   FE                   
+    1057 T000 1056 UNX  FE   FE                   
+    1058 T001 1057 UNX  FE   FE                   
+    1059 T002 1058 UNX  FE   FE                   
+    1060 T000 1059 UNX  FE   FE                   
+    1061 T001 1060 UNX  FE   FE                   
+    1062 T002 1061 UNX  FE   FE                   
+    1063 T000 1062 UNX  FE   FE                   
+    1064 T001 1063 UNX  FE   FE                   
+    1065 T002 1064 UNX  FE   FE                   
+    1066 T000 1065 UNX  FE   FE                   
+    1067 T001 1066 UNX  FE   FE                   
+    1068 T002 1067 UNX  FE   FE                   
+    1069 T000 1068 UNX  FE   FE                   
+    1070 T001 1069 UNX  FE   FE                   
+    1071 T002 1070 UNX  FE   FE                   
+    1072 T000 1071 UNX  FE   FE                   
+    1073 T001 1072 UNX  FE   FE                   
+    1074 T002 1073 UNX  FE   FE                   
+    1075 T000 1074 UNX  FE   FE                   
+    1076 T001 1075 UNX  FE   FE                   
+    1077 T002 1076 UNX  FE   FE                   
+    1078 T000 1077 UNX  FE   FE                   
+    1079 T001 1078 UNX  FE   FE                   
+    1080 T002 1079 UNX  FE   FE                   
+    1080 !NBOND                                      
+       1       2       1       3       2       3       4       5
+       4       6       5       6       7       8       7       9
+       8       9      10      11      10      12      11      12
+      13      14      13      15      14      15      16      17
+      16      18      17      18      19      20      19      21
+      20      21      22      23      22      24      23      24
+      25      26      25      27      26      27      28      29
+      28      30      29      30      31      32      31      33
+      32      33      34      35      34      36      35      36
+      37      38      37      39      38      39      40      41
+      40      42      41      42      43      44      43      45
+      44      45      46      47      46      48      47      48
+      49      50      49      51      50      51      52      53
+      52      54      53      54      55      56      55      57
+      56      57      58      59      58      60      59      60
+      61      62      61      63      62      63      64      65
+      64      66      65      66      67      68      67      69
+      68      69      70      71      70      72      71      72
+      73      74      73      75      74      75      76      77
+      76      78      77      78      79      80      79      81
+      80      81      82      83      82      84      83      84
+      85      86      85      87      86      87      88      89
+      88      90      89      90      91      92      91      93
+      92      93      94      95      94      96      95      96
+      97      98      97      99      98      99     100     101
+     100     102     101     102     103     104     103     105
+     104     105     106     107     106     108     107     108
+     109     110     109     111     110     111     112     113
+     112     114     113     114     115     116     115     117
+     116     117     118     119     118     120     119     120
+     121     122     121     123     122     123     124     125
+     124     126     125     126     127     128     127     129
+     128     129     130     131     130     132     131     132
+     133     134     133     135     134     135     136     137
+     136     138     137     138     139     140     139     141
+     140     141     142     143     142     144     143     144
+     145     146     145     147     146     147     148     149
+     148     150     149     150     151     152     151     153
+     152     153     154     155     154     156     155     156
+     157     158     157     159     158     159     160     161
+     160     162     161     162     163     164     163     165
+     164     165     166     167     166     168     167     168
+     169     170     169     171     170     171     172     173
+     172     174     173     174     175     176     175     177
+     176     177     178     179     178     180     179     180
+     181     182     181     183     182     183     184     185
+     184     186     185     186     187     188     187     189
+     188     189     190     191     190     192     191     192
+     193     194     193     195     194     195     196     197
+     196     198     197     198     199     200     199     201
+     200     201     202     203     202     204     203     204
+     205     206     205     207     206     207     208     209
+     208     210     209     210     211     212     211     213
+     212     213     214     215     214     216     215     216
+     217     218     217     219     218     219     220     221
+     220     222     221     222     223     224     223     225
+     224     225     226     227     226     228     227     228
+     229     230     229     231     230     231     232     233
+     232     234     233     234     235     236     235     237
+     236     237     238     239     238     240     239     240
+     241     242     241     243     242     243     244     245
+     244     246     245     246     247     248     247     249
+     248     249     250     251     250     252     251     252
+     253     254     253     255     254     255     256     257
+     256     258     257     258     259     260     259     261
+     260     261     262     263     262     264     263     264
+     265     266     265     267     266     267     268     269
+     268     270     269     270     271     272     271     273
+     272     273     274     275     274     276     275     276
+     277     278     277     279     278     279     280     281
+     280     282     281     282     283     284     283     285
+     284     285     286     287     286     288     287     288
+     289     290     289     291     290     291     292     293
+     292     294     293     294     295     296     295     297
+     296     297     298     299     298     300     299     300
+     301     302     301     303     302     303     304     305
+     304     306     305     306     307     308     307     309
+     308     309     310     311     310     312     311     312
+     313     314     313     315     314     315     316     317
+     316     318     317     318     319     320     319     321
+     320     321     322     323     322     324     323     324
+     325     326     325     327     326     327     328     329
+     328     330     329     330     331     332     331     333
+     332     333     334     335     334     336     335     336
+     337     338     337     339     338     339     340     341
+     340     342     341     342     343     344     343     345
+     344     345     346     347     346     348     347     348
+     349     350     349     351     350     351     352     353
+     352     354     353     354     355     356     355     357
+     356     357     358     359     358     360     359     360
+     361     362     361     363     362     363     364     365
+     364     366     365     366     367     368     367     369
+     368     369     370     371     370     372     371     372
+     373     374     373     375     374     375     376     377
+     376     378     377     378     379     380     379     381
+     380     381     382     383     382     384     383     384
+     385     386     385     387     386     387     388     389
+     388     390     389     390     391     392     391     393
+     392     393     394     395     394     396     395     396
+     397     398     397     399     398     399     400     401
+     400     402     401     402     403     404     403     405
+     404     405     406     407     406     408     407     408
+     409     410     409     411     410     411     412     413
+     412     414     413     414     415     416     415     417
+     416     417     418     419     418     420     419     420
+     421     422     421     423     422     423     424     425
+     424     426     425     426     427     428     427     429
+     428     429     430     431     430     432     431     432
+     433     434     433     435     434     435     436     437
+     436     438     437     438     439     440     439     441
+     440     441     442     443     442     444     443     444
+     445     446     445     447     446     447     448     449
+     448     450     449     450     451     452     451     453
+     452     453     454     455     454     456     455     456
+     457     458     457     459     458     459     460     461
+     460     462     461     462     463     464     463     465
+     464     465     466     467     466     468     467     468
+     469     470     469     471     470     471     472     473
+     472     474     473     474     475     476     475     477
+     476     477     478     479     478     480     479     480
+     481     482     481     483     482     483     484     485
+     484     486     485     486     487     488     487     489
+     488     489     490     491     490     492     491     492
+     493     494     493     495     494     495     496     497
+     496     498     497     498     499     500     499     501
+     500     501     502     503     502     504     503     504
+     505     506     505     507     506     507     508     509
+     508     510     509     510     511     512     511     513
+     512     513     514     515     514     516     515     516
+     517     518     517     519     518     519     520     521
+     520     522     521     522     523     524     523     525
+     524     525     526     527     526     528     527     528
+     529     530     529     531     530     531     532     533
+     532     534     533     534     535     536     535     537
+     536     537     538     539     538     540     539     540
+     541     542     541     543     542     543     544     545
+     544     546     545     546     547     548     547     549
+     548     549     550     551     550     552     551     552
+     553     554     553     555     554     555     556     557
+     556     558     557     558     559     560     559     561
+     560     561     562     563     562     564     563     564
+     565     566     565     567     566     567     568     569
+     568     570     569     570     571     572     571     573
+     572     573     574     575     574     576     575     576
+     577     578     577     579     578     579     580     581
+     580     582     581     582     583     584     583     585
+     584     585     586     587     586     588     587     588
+     589     590     589     591     590     591     592     593
+     592     594     593     594     595     596     595     597
+     596     597     598     599     598     600     599     600
+     601     602     601     603     602     603     604     605
+     604     606     605     606     607     608     607     609
+     608     609     610     611     610     612     611     612
+     613     614     613     615     614     615     616     617
+     616     618     617     618     619     620     619     621
+     620     621     622     623     622     624     623     624
+     625     626     625     627     626     627     628     629
+     628     630     629     630     631     632     631     633
+     632     633     634     635     634     636     635     636
+     637     638     637     639     638     639     640     641
+     640     642     641     642     643     644     643     645
+     644     645     646     647     646     648     647     648
+     649     650     649     651     650     651     652     653
+     652     654     653     654     655     656     655     657
+     656     657     658     659     658     660     659     660
+     661     662     661     663     662     663     664     665
+     664     666     665     666     667     668     667     669
+     668     669     670     671     670     672     671     672
+     673     674     673     675     674     675     676     677
+     676     678     677     678     679     680     679     681
+     680     681     682     683     682     684     683     684
+     685     686     685     687     686     687     688     689
+     688     690     689     690     691     692     691     693
+     692     693     694     695     694     696     695     696
+     697     698     697     699     698     699     700     701
+     700     702     701     702     703     704     703     705
+     704     705     706     707     706     708     707     708
+     709     710     709     711     710     711     712     713
+     712     714     713     714     715     716     715     717
+     716     717     718     719     718     720     719     720
+     721     722     721     723     722     723     724     725
+     724     726     725     726     727     728     727     729
+     728     729     730     731     730     732     731     732
+     733     734     733     735     734     735     736     737
+     736     738     737     738     739     740     739     741
+     740     741     742     743     742     744     743     744
+     745     746     745     747     746     747     748     749
+     748     750     749     750     751     752     751     753
+     752     753     754     755     754     756     755     756
+     757     758     757     759     758     759     760     761
+     760     762     761     762     763     764     763     765
+     764     765     766     767     766     768     767     768
+     769     770     769     771     770     771     772     773
+     772     774     773     774     775     776     775     777
+     776     777     778     779     778     780     779     780
+     781     782     781     783     782     783     784     785
+     784     786     785     786     787     788     787     789
+     788     789     790     791     790     792     791     792
+     793     794     793     795     794     795     796     797
+     796     798     797     798     799     800     799     801
+     800     801     802     803     802     804     803     804
+     805     806     805     807     806     807     808     809
+     808     810     809     810     811     812     811     813
+     812     813     814     815     814     816     815     816
+     817     818     817     819     818     819     820     821
+     820     822     821     822     823     824     823     825
+     824     825     826     827     826     828     827     828
+     829     830     829     831     830     831     832     833
+     832     834     833     834     835     836     835     837
+     836     837     838     839     838     840     839     840
+     841     842     841     843     842     843     844     845
+     844     846     845     846     847     848     847     849
+     848     849     850     851     850     852     851     852
+     853     854     853     855     854     855     856     857
+     856     858     857     858     859     860     859     861
+     860     861     862     863     862     864     863     864
+     865     866     865     867     866     867     868     869
+     868     870     869     870     871     872     871     873
+     872     873     874     875     874     876     875     876
+     877     878     877     879     878     879     880     881
+     880     882     881     882     883     884     883     885
+     884     885     886     887     886     888     887     888
+     889     890     889     891     890     891     892     893
+     892     894     893     894     895     896     895     897
+     896     897     898     899     898     900     899     900
+     901     902     901     903     902     903     904     905
+     904     906     905     906     907     908     907     909
+     908     909     910     911     910     912     911     912
+     913     914     913     915     914     915     916     917
+     916     918     917     918     919     920     919     921
+     920     921     922     923     922     924     923     924
+     925     926     925     927     926     927     928     929
+     928     930     929     930     931     932     931     933
+     932     933     934     935     934     936     935     936
+     937     938     937     939     938     939     940     941
+     940     942     941     942     943     944     943     945
+     944     945     946     947     946     948     947     948
+     949     950     949     951     950     951     952     953
+     952     954     953     954     955     956     955     957
+     956     957     958     959     958     960     959     960
+     961     962     961     963     962     963     964     965
+     964     966     965     966     967     968     967     969
+     968     969     970     971     970     972     971     972
+     973     974     973     975     974     975     976     977
+     976     978     977     978     979     980     979     981
+     980     981     982     983     982     984     983     984
+     985     986     985     987     986     987     988     989
+     988     990     989     990     991     992     991     993
+     992     993     994     995     994     996     995     996
+     997     998     997     999     998     999    1000    1001
+    1000    1002    1001    1002    1003    1004    1003    1005
+    1004    1005    1006    1007    1006    1008    1007    1008
+    1009    1010    1009    1011    1010    1011    1012    1013
+    1012    1014    1013    1014    1015    1016    1015    1017
+    1016    1017    1018    1019    1018    1020    1019    1020
+    1021    1022    1021    1023    1022    1023    1024    1025
+    1024    1026    1025    1026    1027    1028    1027    1029
+    1028    1029    1030    1031    1030    1032    1031    1032
+    1033    1034    1033    1035    1034    1035    1036    1037
+    1036    1038    1037    1038    1039    1040    1039    1041
+    1040    1041    1042    1043    1042    1044    1043    1044
+    1045    1046    1045    1047    1046    1047    1048    1049
+    1048    1050    1049    1050    1051    1052    1051    1053
+    1052    1053    1054    1055    1054    1056    1055    1056
+    1057    1058    1057    1059    1058    1059    1060    1061
+    1060    1062    1061    1062    1063    1064    1063    1065
+    1064    1065    1066    1067    1066    1068    1067    1068
+    1069    1070    1069    1071    1070    1071    1072    1073
+    1072    1074    1073    1074    1075    1076    1075    1077
+    1076    1077    1078    1079    1078    1080    1079    1080

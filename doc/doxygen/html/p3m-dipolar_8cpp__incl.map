@@ -1,0 +1,38 @@
+<map id="p3m&#45;dipolar.cpp" name="p3m&#45;dipolar.cpp">
+<area shape="rect" id="node2" href="$p3m-dipolar_8hpp.html" title="P3M algorithm for long range magnetic dipole&#45;dipole interaction. " alt="" coords="769,453,897,480"/>
+<area shape="rect" id="node8" href="$utils_8hpp.html" title="Small functions that are useful not only for one modul. " alt="" coords="1158,677,1237,704"/>
+<area shape="rect" id="node22" href="$particle__data_8hpp.html" title="For more information on particle_data, see particle_data.c. " alt="" coords="1211,603,1346,629"/>
+<area shape="rect" id="node23" href="$mpi_8h.html" title="This is the MPIfake implementation. " alt="" coords="384,603,443,629"/>
+<area shape="rect" id="node27" href="$integrate_8hpp.html" title="Molecular dynamics integrator. " alt="" coords="2071,229,2180,256"/>
+<area shape="rect" id="node28" href="$global_8hpp.html" title="This file contains the code for access to globally defined variables using the script command setmd..." alt="" coords="1905,229,1996,256"/>
+<area shape="rect" id="node29" href="$grid_8hpp.html" title="Domain decomposition for parallel computing. " alt="" coords="644,453,719,480"/>
+<area shape="rect" id="node31" href="$communication_8hpp.html" title="This file contains the asynchronous MPI communication. " alt="" coords="447,528,598,555"/>
+<area shape="rect" id="node35" href="$domain__decomposition_8hpp.html" title="This file contains everything related to the cell system: domain decomposition. " alt="" coords="1133,80,1336,107"/>
+<area shape="rect" id="node36" href="$cells_8hpp.html" title="This file contains everything related to the cell structure / cell system. " alt="" coords="1084,229,1164,256"/>
+<area shape="rect" id="node39" href="$thermostat_8hpp.html" title="thermostat.hpp" alt="" coords="1331,155,1453,181"/>
+<area shape="rect" id="node49" href="$fft-dipolar_8hpp.html" title="Routines, row decomposition, data structures and communication for the 3D&#45;FFT. " alt="" coords="86,155,199,181"/>
+<area shape="rect" id="node50" href="$tuning_8hpp.html" title="This contains a timing loop for the force calculation. " alt="" coords="2335,80,2425,107"/>
+<area shape="rect" id="node3" href="$p3m-common_8hpp.html" title="common functions for dipolar and charge p3m. " alt="" coords="219,603,360,629"/>
+<area shape="rect" id="node21" href="$interaction__data_8hpp.html" title="Various procedures concerning interactions between particles. " alt="" coords="983,528,1139,555"/>
+<area shape="rect" id="node4" href="$config_8hpp.html" title="This file contains the defaults for Espresso. " alt="" coords="1277,827,1366,853"/>
+<area shape="rect" id="node5" href="$acconfig_8hpp.html" title="acconfig.hpp" alt="" coords="1121,901,1225,928"/>
+<area shape="rect" id="node6" href="$myconfig-final_8hpp.html" title="myconfig&#45;final.hpp" alt="" coords="1250,901,1393,928"/>
+<area shape="rect" id="node7" href="$config-features_8hpp.html" title="config&#45;features.hpp" alt="" coords="1417,901,1565,928"/>
+<area shape="rect" id="node13" href="$debug_8hpp.html" title="This file controls debug facilities. " alt="" coords="1052,752,1143,779"/>
+<area shape="rect" id="node14" href="$lees__edwards_8hpp.html" title="lees_edwards.hpp" alt="" coords="1252,752,1391,779"/>
+<area shape="rect" id="node15" href="$errorhandling_8hpp.html" title="This file contains the errorhandling code for severe errors, like a broken bond or illegal parameter ..." alt="" coords="57,752,194,779"/>
+<area shape="rect" id="node32" href="$random_8hpp.html" title="A random generator. " alt="" coords="749,603,849,629"/>
+<area shape="rect" id="node33" href="$topology_8hpp.html" title="This file contains functions for handling the system topology. " alt="" coords="619,603,725,629"/>
+<area shape="rect" id="node34" href="$cuda__init_8hpp.html" title="cuda_init.hpp" alt="" coords="601,677,711,704"/>
+<area shape="rect" id="node38" href="$verlet_8hpp.html" title="This file contains routines to setup and handle interaction pair lists (verlet pair lists) for the no..." alt="" coords="1153,304,1241,331"/>
+<area shape="rect" id="node37" href="$ghosts_8hpp.html" title="Ghost particles and particle exchange. " alt="" coords="815,528,908,555"/>
+<area shape="rect" id="node40" href="$lb_8hpp.html" title="Header file for lb.cpp. " alt="" coords="1521,229,1583,256"/>
+<area shape="rect" id="node45" href="$dpd_8hpp.html" title="Routines to use dpd as thermostat or pair force T. " alt="" coords="1481,379,1556,405"/>
+<area shape="rect" id="node46" href="$virtual__sites_8hpp.html" title="This file contains routine to handle virtual sites Virtual sites are like particles, but they will be not integrated. " alt="" coords="1620,453,1751,480"/>
+<area shape="rect" id="node41" href="$lattice__inline_8hpp.html" title="lattice_inline.hpp" alt="" coords="1442,304,1577,331"/>
+<area shape="rect" id="node43" href="$lbgpu_8hpp.html" title="Header file for lbgpu.cpp. " alt="" coords="2071,528,2158,555"/>
+<area shape="rect" id="node42" href="$lattice_8hpp.html" title="Lattice class definition Contains the lattice layout and pointers to the data fields. " alt="" coords="1367,379,1457,405"/>
+<area shape="rect" id="node44" href="$statistics__observable_8hpp.html" title="statistics_observable.hpp" alt="" coords="1874,603,2062,629"/>
+<area shape="rect" id="node47" href="$virtual__sites__com_8hpp.html" title="virtual_sites_com.hpp" alt="" coords="1831,528,1996,555"/>
+<area shape="rect" id="node48" href="$virtual__sites__relative_8hpp.html" title="virtual_sites_relative.hpp" alt="" coords="1620,528,1807,555"/>
+</map>

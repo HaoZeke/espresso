@@ -1,0 +1,11 @@
+<map id="electrokinetics.hpp" name="electrokinetics.hpp">
+<area shape="rect" id="node2" href="$electrokinetics__pdb__parse_8hpp.html" title="electrokinetics_pdb\l_parse.hpp" alt="" coords="212,80,361,121"/>
+<area shape="rect" id="node4" href="$lb-boundaries_8cpp.html" title="Boundary conditions for Lattice Boltzmann fluid dynamics. " alt="" coords="5,177,144,203"/>
+<area shape="rect" id="node5" href="$lbgpu__cuda_8cu.html" title="Cuda (.cu) file for the Lattice Boltzmann implementation on GPUs. " alt="" coords="341,177,456,203"/>
+<area shape="rect" id="node6" href="$electrokinetics__tcl_8cpp.html" title="electrokinetics_tcl.cpp" alt="" coords="480,177,648,203"/>
+<area shape="rect" id="node7" href="$forces_8cpp.html" title="Force calculation. " alt="" coords="487,87,577,114"/>
+<area shape="rect" id="node8" href="$core_2integrate_8cpp.html" title="integrate.cpp" alt="" coords="601,87,709,114"/>
+<area shape="rect" id="node9" href="$integrate__sd_8cpp.html" title="Stokesian dynamics integrator. " alt="" coords="733,87,864,114"/>
+<area shape="rect" id="node10" href="$lb__tcl_8cpp.html" title="TCL Interface for the Lattice Boltzmann algorithm for hydrodynamic degrees of freedom. " alt="" coords="889,87,973,114"/>
+<area shape="rect" id="node3" href="$electrokinetics__pdb__parse_8cpp.html" title="electrokinetics_pdb\l_parse.cpp" alt="" coords="168,169,317,211"/>
+</map>

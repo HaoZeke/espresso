@@ -1,0 +1,6 @@
+loadseries simplebilayer.vmd 1 0
+rotate stop
+mol modstyle 0 0 lines
+mol modcolor 0 0 SegName
+logfile vmd.log
+logfile off

@@ -1,0 +1,5 @@
+mol load pdb sphere.pdb
+logfile vmd.log
+rotate stop
+logfile off
+mol modstyle 0 0 Points

@@ -262,7 +262,7 @@ for {set k $startk } { $k <  $int_n_times } { incr k} {
     puts $out "time [setmd time]"
     blockfile $out write end
     blockfile $out write start "variable"
-    puts $out "box_l $box_l"
+    puts $out "box_l [setmd box_l]"
     blockfile $out write end
     blockfile $out write start "variable"
     puts $out "npt_p_diff [setmd npt_p_diff]"

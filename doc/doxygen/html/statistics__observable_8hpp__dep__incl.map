@@ -1,0 +1,101 @@
+<map id="statistics_observable.hpp" name="statistics_observable.hpp">
+<area shape="rect" id="node2" href="$lbgpu_8hpp.html" title="Header file for lbgpu.cpp. " alt="" coords="4440,80,4527,107"/>
+<area shape="rect" id="node12" href="$communication_8cpp.html" title="communication.cpp" alt="" coords="400,758,551,785"/>
+<area shape="rect" id="node17" href="$initialize_8cpp.html" title="Implementation of initialize.hpp. " alt="" coords="4713,758,4819,785"/>
+<area shape="rect" id="node25" href="$statistics__observable_8cpp.html" title="statistics_observable.cpp" alt="" coords="575,758,762,785"/>
+<area shape="rect" id="node29" href="$statistics__observable__tcl_8cpp.html" title="statistics_observable\l_tcl.cpp" alt="" coords="5475,751,5635,792"/>
+<area shape="rect" id="node88" href="$integrate__tcl_8cpp.html" title="integrate_tcl.cpp" alt="" coords="4843,237,4974,263"/>
+<area shape="rect" id="node93" href="$statistics__correlation_8hpp.html" title="statistics_correlation.hpp" alt="" coords="4946,155,5133,181"/>
+<area shape="rect" id="node97" href="$statistics__correlation__tcl_8cpp.html" title="statistics_correlation\l_tcl.cpp" alt="" coords="5565,319,5724,360"/>
+<area shape="rect" id="node98" href="$statistics__average_8hpp.html" title="statistics_average.hpp" alt="" coords="5732,80,5901,107"/>
+<area shape="rect" id="node100" href="$statistics__observable__tcl_8hpp.html" title="statistics_observable\l_tcl.hpp" alt="" coords="5595,229,5755,271"/>
+<area shape="rect" id="node3" href="$lb_8hpp.html" title="Header file for lb.cpp. " alt="" coords="1877,155,1940,181"/>
+<area shape="rect" id="node49" href="$lbgpu_8cpp.html" title="C file for the Lattice Boltzmann implementation on GPUs. " alt="" coords="4737,415,4822,442"/>
+<area shape="rect" id="node76" href="$lb__tcl_8cpp.html" title="TCL Interface for the Lattice Boltzmann algorithm for hydrodynamic degrees of freedom. " alt="" coords="4553,326,4637,353"/>
+<area shape="rect" id="node84" href="$lb-boundaries_8cpp.html" title="Boundary conditions for Lattice Boltzmann fluid dynamics. " alt="" coords="4402,237,4541,263"/>
+<area shape="rect" id="node91" href="$ibm__cuda_8cu.html" title="ibm_cuda.cu" alt="" coords="4247,155,4351,181"/>
+<area shape="rect" id="node92" href="$lbgpu__cuda_8cu.html" title="Cuda (.cu) file for the Lattice Boltzmann implementation on GPUs. " alt="" coords="4426,155,4541,181"/>
+<area shape="rect" id="node4" href="$thermostat_8hpp.html" title="thermostat.hpp" alt="" coords="3566,237,3689,263"/>
+<area shape="rect" id="node18" href="$core_2integrate_8cpp.html" title="integrate.cpp" alt="" coords="1461,758,1569,785"/>
+<area shape="rect" id="node19" href="$integrate__sd_8cpp.html" title="Stokesian dynamics integrator. " alt="" coords="4498,758,4629,785"/>
+<area shape="rect" id="node24" href="$statistics_8cpp.html" title="This is the place for analysis (so far...). " alt="" coords="1773,758,1881,785"/>
+<area shape="rect" id="node47" href="$global_8cpp.html" title="Implementation of global.h. " alt="" coords="1807,415,1896,442"/>
+<area shape="rect" id="node48" href="$lb_8cpp.html" title="Lattice Boltzmann algorithm for hydrodynamic degrees of freedom. " alt="" coords="4651,415,4713,442"/>
+<area shape="rect" id="node61" href="$statistics__tcl_8cpp.html" title="statistics_tcl.cpp" alt="" coords="1971,415,2102,442"/>
+<area shape="rect" id="node64" href="$thermostat__tcl_8cpp.html" title="thermostat_tcl.cpp" alt="" coords="1489,415,1633,442"/>
+<area shape="rect" id="node77" href="$area__force__global_8hpp.html" title="Routines to calculate the AREA_FORCE_GLOBAL energy or/and and force for a particle triple (triangle f..." alt="" coords="651,237,817,263"/>
+<area shape="rect" id="node80" href="$volume__force_8hpp.html" title="Routines to calculate the VOLUME_FORCE energy or/and and force for a particle triple (triangle from m..." alt="" coords="437,237,575,263"/>
+<area shape="rect" id="node83" href="$ibm__main_8cpp.html" title="Main of the Bayreuth Immersed&#45;Boundary implementation. " alt="" coords="1033,237,1147,263"/>
+<area shape="rect" id="node85" href="$statistics__fluid_8cpp.html" title="Fluid related analysis functions. " alt="" coords="1172,237,1315,263"/>
+<area shape="rect" id="node86" href="$electrokinetics__tcl_8cpp.html" title="electrokinetics_tcl.cpp" alt="" coords="1339,237,1507,263"/>
+<area shape="rect" id="node87" href="$integrate__sd__tcl_8cpp.html" title="integrate_sd_tcl.cpp" alt="" coords="4667,237,4820,263"/>
+<area shape="rect" id="node89" href="$lb-boundaries__tcl_8cpp.html" title="Boundary conditions parser file for Lattice Boltzmann fluid dynamics. " alt="" coords="1532,237,1693,263"/>
+<area shape="rect" id="node90" href="$statistics__fluid__tcl_8cpp.html" title="statistics_fluid_tcl.cpp" alt="" coords="841,237,1008,263"/>
+<area shape="rect" id="node5" href="$domain__decomposition_8hpp.html" title="This file contains everything related to the cell system: domain decomposition. " alt="" coords="3307,326,3510,353"/>
+<area shape="rect" id="node14" href="$pressure_8hpp.html" title="Pressure calculation. " alt="" coords="3295,676,3402,703"/>
+<area shape="rect" id="node41" href="$rotation_8cpp.html" title="Molecular dynamics integrator for rotational motion. " alt="" coords="1337,758,1437,785"/>
+<area shape="rect" id="node53" href="$maggs_8cpp.html" title="Maxwell Equations Molecular Dynamics (MEMD) method for electrostatic interactions. " alt="" coords="3785,415,3878,442"/>
+<area shape="rect" id="node56" href="$p3m-dipolar_8cpp.html" title="P3M algorithm for long range magnetic dipole&#45;dipole interaction. " alt="" coords="3903,415,4029,442"/>
+<area shape="rect" id="node57" href="$p3m_8cpp.html" title="p3m.cpp" alt="" coords="4053,415,4132,442"/>
+<area shape="rect" id="node62" href="$dpd_8hpp.html" title="Routines to use dpd as thermostat or pair force T. " alt="" coords="1814,326,1889,353"/>
+<area shape="rect" id="node65" href="$lees__edwards__domain__decomposition_8hpp.html" title="Data and methods for Lees&#45;Edwards periodic boundary conditions. " alt="" coords="4156,408,4323,449"/>
+<area shape="rect" id="node66" href="$lees__edwards__comms__manager_8hpp.html" title="Class definition and a few macros for Lees Edwards comms rebuild manager. " alt="" coords="4159,319,4325,360"/>
+<area shape="rect" id="node67" href="$rotation_8hpp.html" title="This file contains all subroutines required to process rotational motion. " alt="" coords="1142,676,1243,703"/>
+<area shape="rect" id="node71" href="$energy__inline_8hpp.html" title="Implementation of the energy calculation. " alt="" coords="3682,676,3821,703"/>
+<area shape="rect" id="node72" href="$ghmc_8cpp.html" title="For more information see ghmc.hpp. " alt="" coords="3585,326,3670,353"/>
+<area shape="rect" id="node73" href="$core_2thermostat_8cpp.html" title="thermostat.cpp" alt="" coords="3695,326,3816,353"/>
+<area shape="rect" id="node74" href="$dpd__tcl_8cpp.html" title="dpd_tcl.cpp" alt="" coords="3841,326,3937,353"/>
+<area shape="rect" id="node75" href="$ghmc__tcl_8cpp.html" title="For more information see ghmc_tcl.hpp. " alt="" coords="2217,326,2325,353"/>
+<area shape="rect" id="node6" href="$cells_8cpp.html" title="This file contains functions for the cell system. " alt="" coords="3849,505,3928,531"/>
+<area shape="rect" id="node7" href="$iccp3m_8hpp.html" title="ICCP3M is a method that allows to take into account the influence of arbitrarliy shaped dielectric in..." alt="" coords="2228,415,2325,442"/>
+<area shape="rect" id="node15" href="$domain__decomposition_8cpp.html" title="This file contains everything related to the cell system: domain decomposition. " alt="" coords="4101,758,4303,785"/>
+<area shape="rect" id="node21" href="$layered_8cpp.html" title="Implementation of layered.h. " alt="" coords="3545,758,3643,785"/>
+<area shape="rect" id="node23" href="$pressure_8cpp.html" title="Implementation of pressure.h. " alt="" coords="3668,758,3773,785"/>
+<area shape="rect" id="node26" href="$verlet_8cpp.html" title="Verlet list. " alt="" coords="3913,758,4000,785"/>
+<area shape="rect" id="node38" href="$iccp3m_8cpp.html" title="Detailed Information about the method is included in the corresponding header file iccp3m..." alt="" coords="1634,594,1730,621"/>
+<area shape="rect" id="node40" href="$reaction_8cpp.html" title="reaction.cpp" alt="" coords="3936,594,4039,621"/>
+<area shape="rect" id="node50" href="$lees__edwards_8cpp.html" title="lees_edwards.cpp" alt="" coords="3953,505,4091,531"/>
+<area shape="rect" id="node51" href="$lees__edwards__comms__manager_8cpp.html" title="This file defined methods for a class to hold some state for Lees&#45;Edwards Comms updates. " alt="" coords="4359,497,4525,539"/>
+<area shape="rect" id="node52" href="$lees__edwards__domain__decomposition_8cpp.html" title="This file contains modifications to the domain decomposition functions which are specific to Lees&#45;Edw..." alt="" coords="4116,497,4283,539"/>
+<area shape="rect" id="node54" href="$magnetic__non__p3m__methods_8cpp.html" title="All 3d non P3M methods to deal with the magnetic dipoles. " alt="" coords="2777,415,3019,442"/>
+<area shape="rect" id="node55" href="$mdlc__correction_8cpp.html" title="mdlc_correction.cpp" alt="" coords="3043,415,3196,442"/>
+<area shape="rect" id="node58" href="$rattle_8cpp.html" title="rattle.cpp" alt="" coords="3220,415,3304,442"/>
+<area shape="rect" id="node59" href="$cells__tcl_8cpp.html" title="cells_tcl.cpp" alt="" coords="2452,415,2555,442"/>
+<area shape="rect" id="node60" href="$domain__decomposition__tcl_8cpp.html" title="domain_decomposition\l_tcl.cpp" alt="" coords="2579,408,2753,449"/>
+<area shape="rect" id="node8" href="$forces_8hpp.html" title="Force calculation. " alt="" coords="2702,505,2793,531"/>
+<area shape="rect" id="node46" href="$iccp3m__tcl_8cpp.html" title="iccp3m_tcl.cpp" alt="" coords="2279,505,2397,531"/>
+<area shape="rect" id="node9" href="$HarmonicOrientationWell_8cpp.html" title="HarmonicOrientationWell.cpp" alt="" coords="3293,594,3506,621"/>
+<area shape="rect" id="node10" href="$HarmonicWell_8cpp.html" title="HarmonicWell.cpp" alt="" coords="2943,594,3083,621"/>
+<area shape="rect" id="node11" href="$Mmm1dgpuForce_8cpp.html" title="Mmm1dgpuForce.cpp" alt="" coords="3107,594,3268,621"/>
+<area shape="rect" id="node13" href="$forces__inline_8hpp.html" title="forces_inline.hpp" alt="" coords="1071,594,1205,621"/>
+<area shape="rect" id="node22" href="$nsquare_8cpp.html" title="Implementation of nsquare.h. " alt="" coords="3419,758,3521,785"/>
+<area shape="rect" id="node36" href="$energy_8cpp.html" title="Implementation of energy.hpp. " alt="" coords="3797,758,3889,785"/>
+<area shape="rect" id="node37" href="$galilei_8cpp.html" title="galilei.cpp" alt="" coords="1957,594,2047,621"/>
+<area shape="rect" id="node39" href="$molforces_8cpp.html" title="Routines for calculating and applying trap forces upon molecules. " alt="" coords="2071,594,2186,621"/>
+<area shape="rect" id="node42" href="$virtual__sites__com_8cpp.html" title="virtual_sites_com.cpp" alt="" coords="2211,594,2375,621"/>
+<area shape="rect" id="node43" href="$Ewaldgpu__tcl_8cpp.html" title="Ewaldgpu_tcl.cpp" alt="" coords="2399,594,2533,621"/>
+<area shape="rect" id="node44" href="$HarmonicOrientationWell__tcl_8cpp.html" title="HarmonicOrientationWell\l_tcl.cpp" alt="" coords="2558,587,2745,628"/>
+<area shape="rect" id="node45" href="$Mmm1dgpu__tcl_8cpp.html" title="Mmm1dgpu_tcl.cpp" alt="" coords="2769,594,2918,621"/>
+<area shape="rect" id="node30" href="$minimize__energy_8hpp.html" title="minimize_energy.hpp" alt="" coords="364,676,525,703"/>
+<area shape="rect" id="node33" href="$constraint_8cpp.html" title="Implementation of constraint.hpp, here it&#39;s just the parsing stuff. " alt="" coords="3129,758,3243,785"/>
+<area shape="rect" id="node34" href="$forces_8cpp.html" title="Force calculation. " alt="" coords="861,676,951,703"/>
+<area shape="rect" id="node35" href="$ghosts_8cpp.html" title="Ghost particles and particle exchange. " alt="" coords="975,676,1067,703"/>
+<area shape="rect" id="node16" href="$elc_8cpp.html" title="For more information about ELC, see elc.hpp. " alt="" coords="2883,758,2951,785"/>
+<area shape="rect" id="node20" href="$interaction__data_8cpp.html" title="Implementation of interaction_data.hpp. " alt="" coords="1594,758,1749,785"/>
+<area shape="rect" id="node27" href="$virtual__sites_8cpp.html" title="virtual_sites.cpp" alt="" coords="2975,758,3104,785"/>
+<area shape="rect" id="node28" href="$pressure__tcl_8cpp.html" title="pressure_tcl.cpp" alt="" coords="3267,758,3395,785"/>
+<area shape="rect" id="node31" href="$minimize__energy_8cpp.html" title="minimize_energy.cpp" alt="" coords="215,758,375,785"/>
+<area shape="rect" id="node32" href="$minimize__energy__tcl_8cpp.html" title="minimize_energy_tcl.cpp" alt="" coords="5,758,191,785"/>
+<area shape="rect" id="node63" href="$dpd_8cpp.html" title="Implementation of dpd.hpp. " alt="" coords="1657,415,1731,442"/>
+<area shape="rect" id="node68" href="$core_2particle__data_8cpp.html" title="particle_data.cpp" alt="" coords="1179,758,1313,785"/>
+<area shape="rect" id="node69" href="$virtual__sites__relative_8cpp.html" title="virtual_sites_relative.cpp" alt="" coords="786,758,973,785"/>
+<area shape="rect" id="node70" href="$particle__data__tcl_8cpp.html" title="particle_data_tcl.cpp" alt="" coords="997,758,1154,785"/>
+<area shape="rect" id="node78" href="$area__force__global_8cpp.html" title="area_force_global.cpp" alt="" coords="1001,326,1166,353"/>
+<area shape="rect" id="node79" href="$area__force__global__tcl_8cpp.html" title="area_force_global_tcl.cpp" alt="" coords="788,326,976,353"/>
+<area shape="rect" id="node81" href="$volume__force_8cpp.html" title="volume_force.cpp" alt="" coords="523,326,662,353"/>
+<area shape="rect" id="node82" href="$volume__force__tcl_8cpp.html" title="volume_force_tcl.cpp" alt="" coords="337,326,499,353"/>
+<area shape="rect" id="node94" href="$statistics__correlation_8cpp.html" title="statistics_correlation.cpp" alt="" coords="5049,237,5235,263"/>
+<area shape="rect" id="node95" href="$statistics__correlation__tcl_8hpp.html" title="statistics_correlation\l_tcl.hpp" alt="" coords="5361,229,5520,271"/>
+<area shape="rect" id="node96" href="$initialize__interpreter_8cpp.html" title="initialize_interpreter.cpp" alt="" coords="5361,326,5541,353"/>
+<area shape="rect" id="node99" href="$statistics__average_8cpp.html" title="statistics_average.cpp" alt="" coords="5733,155,5901,181"/>
+</map>

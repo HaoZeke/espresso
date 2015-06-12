@@ -1,0 +1,11 @@
+<map id="maggs.hpp" name="maggs.hpp">
+<area shape="rect" id="node2" href="$communication_8cpp.html" title="communication.cpp" alt="" coords="5,80,156,107"/>
+<area shape="rect" id="node3" href="$energy_8cpp.html" title="Implementation of energy.hpp. " alt="" coords="180,80,272,107"/>
+<area shape="rect" id="node4" href="$forces_8cpp.html" title="Force calculation. " alt="" coords="296,80,385,107"/>
+<area shape="rect" id="node5" href="$initialize_8cpp.html" title="Implementation of initialize.hpp. " alt="" coords="409,80,515,107"/>
+<area shape="rect" id="node6" href="$core_2integrate_8cpp.html" title="integrate.cpp" alt="" coords="539,80,647,107"/>
+<area shape="rect" id="node7" href="$integrate__sd_8cpp.html" title="Stokesian dynamics integrator. " alt="" coords="671,80,802,107"/>
+<area shape="rect" id="node8" href="$interaction__data_8cpp.html" title="Implementation of interaction_data.hpp. " alt="" coords="826,80,981,107"/>
+<area shape="rect" id="node9" href="$maggs_8cpp.html" title="Maxwell Equations Molecular Dynamics (MEMD) method for electrostatic interactions. " alt="" coords="1005,80,1098,107"/>
+<area shape="rect" id="node10" href="$maggs__tcl_8cpp.html" title="maggs_tcl.cpp" alt="" coords="1123,80,1239,107"/>
+</map>

@@ -1,0 +1,95 @@
+<map id="forces.cpp" name="forces.cpp">
+<area shape="rect" id="node2" href="$p3m__gpu_8hpp.html" title="p3m_gpu.hpp" alt="" coords="5,80,116,107"/>
+<area shape="rect" id="node3" href="$maggs_8hpp.html" title="Maxwell Equations Molecular Dynamics (MEMD) method for electrostatic interactions. " alt="" coords="89,572,184,599"/>
+<area shape="rect" id="node8" href="$forces__inline_8hpp.html" title="forces_inline.hpp" alt="" coords="5082,80,5215,107"/>
+<area shape="rect" id="node99" href="$electrokinetics_8hpp.html" title="electrokinetics.hpp" alt="" coords="191,162,338,189"/>
+<area shape="rect" id="node4" href="$config_8hpp.html" title="This file contains the defaults for Espresso. " alt="" coords="1193,721,1283,748"/>
+<area shape="rect" id="node5" href="$acconfig_8hpp.html" title="acconfig.hpp" alt="" coords="1038,796,1142,823"/>
+<area shape="rect" id="node6" href="$myconfig-final_8hpp.html" title="myconfig&#45;final.hpp" alt="" coords="1167,796,1309,823"/>
+<area shape="rect" id="node7" href="$config-features_8hpp.html" title="config&#45;features.hpp" alt="" coords="1333,796,1481,823"/>
+<area shape="rect" id="node9" href="$topology_8hpp.html" title="This file contains functions for handling the system topology. " alt="" coords="8256,423,8361,449"/>
+<area shape="rect" id="node20" href="$magnetic__non__p3m__methods_8hpp.html" title="Header of all 3d non P3M methods to deal with the magnetic dipoles. " alt="" coords="6517,423,6759,449"/>
+<area shape="rect" id="node22" href="$mdlc__correction_8hpp.html" title="mdlc_correction.hpp" alt="" coords="7921,497,8075,524"/>
+<area shape="rect" id="node23" href="$constraint_8hpp.html" title="Routines for handling of constraints. " alt="" coords="2874,341,2989,367"/>
+<area shape="rect" id="node25" href="$EspressoSystemInterface_8hpp.html" title="EspressoSystemInterface.hpp" alt="" coords="311,341,525,367"/>
+<area shape="rect" id="node29" href="$forces_8hpp.html" title="Force calculation. " alt="" coords="6901,251,6991,278"/>
+<area shape="rect" id="node36" href="$npt_8hpp.html" title="exports for the NPT code, which otherwise is really spread all over... " alt="" coords="8496,497,8567,524"/>
+<area shape="rect" id="node37" href="$p3m-dipolar_8hpp.html" title="P3M algorithm for long range magnetic dipole&#45;dipole interaction. " alt="" coords="759,341,887,367"/>
+<area shape="rect" id="node39" href="$lj_8hpp.html" title="Routines to calculate the lennard jones energy and/or force for a particle pair. " alt="" coords="1921,162,1979,189"/>
+<area shape="rect" id="node44" href="$ljgen_8hpp.html" title="Routines to calculate the generalized lennard jones energy and/or force for a particle pair..." alt="" coords="3254,162,3337,189"/>
+<area shape="rect" id="node45" href="$steppot_8hpp.html" title="Routines to calculate the smooth step potential energy and/or force for a particle pair..." alt="" coords="2583,162,2682,189"/>
+<area shape="rect" id="node46" href="$hertzian_8hpp.html" title="Routines to calculate the Hertzian energy and/or force for a particle pair. " alt="" coords="2968,162,3071,189"/>
+<area shape="rect" id="node47" href="$gaussian_8hpp.html" title="Routines to calculate the Gaussian energy and/or force for a particle pair. " alt="" coords="3833,162,3941,189"/>
+<area shape="rect" id="node48" href="$bmhtf-nacl_8hpp.html" title="Routines to calculate the Born&#45;Meyer&#45;Huggins&#45;Tosi&#45;Fumi energy and/or force for a particle pair..." alt="" coords="4158,162,4278,189"/>
+<area shape="rect" id="node49" href="$buckingham_8hpp.html" title="Routines to calculate the Buckingham energy and/or force for a particle pair. " alt="" coords="2346,162,2477,189"/>
+<area shape="rect" id="node50" href="$soft__sphere_8hpp.html" title="Routines to calculate the soft&#45;sphere energy and/or force for a particle pair. " alt="" coords="4421,162,4548,189"/>
+<area shape="rect" id="node51" href="$hat_8hpp.html" title="hat.hpp" alt="" coords="2873,162,2944,189"/>
+<area shape="rect" id="node52" href="$tab_8hpp.html" title="Routines to calculate the energy and/or force for a particle pair or bonds via interpolating from loo..." alt="" coords="1607,162,1677,189"/>
+<area shape="rect" id="node55" href="$overlap_8hpp.html" title="Routines to calculate the energy and/or force for bonds, angles and dihedrals as a sum of N functions..." alt="" coords="4003,251,4102,278"/>
+<area shape="rect" id="node56" href="$ljcos_8hpp.html" title="Routines to calculate the lennard jones+cosine energy and/or force for a particle pair..." alt="" coords="4317,162,4397,189"/>
+<area shape="rect" id="node57" href="$ljcos2_8hpp.html" title="Routines to calculate the lennard&#45;jones with cosine tail energy and/or force for a particle pair..." alt="" coords="1222,162,1310,189"/>
+<area shape="rect" id="node58" href="$ljangle_8hpp.html" title="Routines to calculate the lennard&#45;jones 12&#45;10 with angular dependance. " alt="" coords="2156,162,2251,189"/>
+<area shape="rect" id="node59" href="$gb_8hpp.html" title="Routines to calculate the Gay&#45;Berne energy and force for a pair of particles. " alt="" coords="3702,162,3769,189"/>
+<area shape="rect" id="node60" href="$fene_8hpp.html" title="Routines to calculate the FENE Energy or/and FENE force for a particle pair. " alt="" coords="6868,341,6947,367"/>
+<area shape="rect" id="node62" href="$stretching__force_8hpp.html" title="Routines to calculate the STRETCHING_FORCE Energy or/and STRETCHING_FORCE force for a particle pair..." alt="" coords="4803,333,4985,375"/>
+<area shape="rect" id="node63" href="$stretchlin__force_8hpp.html" title="Routines to calculate the STRETCHLIN_FORCE Energy or/and STRETCHLIN_FORCE force for a particle pair..." alt="" coords="1267,333,1444,375"/>
+<area shape="rect" id="node64" href="$area__force__local_8hpp.html" title="Routines to calculate the AREA_FORCE_LOCAL energy or/and and force for a particle triple (triangle fr..." alt="" coords="5561,333,5707,375"/>
+<area shape="rect" id="node65" href="$area__force__global_8hpp.html" title="Routines to calculate the AREA_FORCE_GLOBAL energy or/and and force for a particle triple (triangle f..." alt="" coords="7844,333,7989,375"/>
+<area shape="rect" id="node67" href="$bending__force_8hpp.html" title="Routines to calculate the bending_force energy or/and and force for a particle quadruple (two triangl..." alt="" coords="6455,333,6623,375"/>
+<area shape="rect" id="node68" href="$volume__force_8hpp.html" title="Routines to calculate the VOLUME_FORCE energy or/and and force for a particle triple (triangle from m..." alt="" coords="8014,333,8179,375"/>
+<area shape="rect" id="node69" href="$harmonic__dumbbell_8hpp.html" title="Routines to calculate the HARMONIC Energy or/and HARMONIC force for a particle pair. " alt="" coords="7641,341,7819,367"/>
+<area shape="rect" id="node70" href="$harmonic_8hpp.html" title="Routines to calculate the HARMONIC Energy or/and HARMONIC force for a particle pair. " alt="" coords="6971,341,7081,367"/>
+<area shape="rect" id="node71" href="$subt__lj_8hpp.html" title="Routines to subtract the LENNARD&#45;JONES Energy and/or the LENNARD&#45;JONES force for a particle pair..." alt="" coords="5110,341,5203,367"/>
+<area shape="rect" id="node72" href="$angle__harmonic_8hpp.html" title="Routines to calculate the angle energy or/and and force for a particle triple. " alt="" coords="5930,341,6085,367"/>
+<area shape="rect" id="node73" href="$angle__cosine_8hpp.html" title="Routines to calculate the angle energy or/and and force for a particle triple. " alt="" coords="5228,341,5363,367"/>
+<area shape="rect" id="node74" href="$angle__cossquare_8hpp.html" title="Routines to calculate the angle energy or/and and force for a particle triple. " alt="" coords="6272,341,6431,367"/>
+<area shape="rect" id="node75" href="$angledist_8hpp.html" title="Routines to calculate the angle and distance dependent (from a constraint) energy or/and and force fo..." alt="" coords="4668,341,4779,367"/>
+<area shape="rect" id="node76" href="$debye__hueckel_8hpp.html" title="Routines to calculate the Debye_Hueckel Energy or/and Debye_Hueckel force for a particle pair..." alt="" coords="1355,251,1503,278"/>
+<area shape="rect" id="node77" href="$endangledist_8hpp.html" title="Routines which apply an angle potential between two particles and a wall constraint At distmax the an..." alt="" coords="4509,341,4644,367"/>
+<area shape="rect" id="node78" href="$reaction__field_8hpp.html" title="Routines to calculate the Reaction Field Energy or/and force for a particle pair. ..." alt="" coords="2706,162,2845,189"/>
+<area shape="rect" id="node79" href="$comforce_8hpp.html" title="Routines for center of mass forces. " alt="" coords="8207,251,8317,278"/>
+<area shape="rect" id="node81" href="$comfixed_8hpp.html" title="Routines to enable comfixed. " alt="" coords="8201,497,8312,524"/>
+<area shape="rect" id="node82" href="$molforces_8hpp.html" title="Routines for calculating and applying trap forces upon molecules. " alt="" coords="8590,341,8705,367"/>
+<area shape="rect" id="node84" href="$morse_8hpp.html" title="Routines to calculate the lennard jones energy and/or force for a particle pair. " alt="" coords="1719,162,1810,189"/>
+<area shape="rect" id="node85" href="$elc_8hpp.html" title="ELC algorithm for long range coulomb interactions. " alt="" coords="6423,423,6493,449"/>
+<area shape="rect" id="node86" href="$collision_8hpp.html" title="collision.hpp" alt="" coords="3053,251,3157,278"/>
+<area shape="rect" id="node87" href="$metadynamics_8hpp.html" title="This file contains routines to perform metadynamics. " alt="" coords="891,423,1038,449"/>
+<area shape="rect" id="node88" href="$angle_8hpp.html" title="Routines to calculate the angle energy or/and and force for a particle triple. " alt="" coords="6109,341,6196,367"/>
+<area shape="rect" id="node89" href="$hydrogen__bond_8hpp.html" title="hydrogen_bond.hpp" alt="" coords="5387,341,5537,367"/>
+<area shape="rect" id="node90" href="$twist__stack_8hpp.html" title="twist_stack.hpp" alt="" coords="5783,341,5907,367"/>
+<area shape="rect" id="node91" href="$quartic_8hpp.html" title="Routines to calculate the HARMONIC Energy or/and HARMONIC force for a particle pair. " alt="" coords="6749,341,6844,367"/>
+<area shape="rect" id="node92" href="$bonded__coulomb_8hpp.html" title="Routines to calculate the BONDED_COULOMB Energy or/and BONDED_COULOMB force for a particle pair..." alt="" coords="2637,341,2799,367"/>
+<area shape="rect" id="node93" href="$EwaldgpuForce__ShortRange_8hpp.html" title="actor/EwaldgpuForce\l_ShortRange.hpp" alt="" coords="622,244,779,285"/>
+<area shape="rect" id="node95" href="$ibm__main_8hpp.html" title="Main of the Bayreuth Immersed&#45;Boundary implementation. " alt="" coords="7117,155,7303,196"/>
+<area shape="rect" id="node96" href="$ibm__triel_8hpp.html" title="immersed_boundary/ibm\l_triel.hpp" alt="" coords="7327,155,7512,196"/>
+<area shape="rect" id="node97" href="$ibm__volume__conservation_8hpp.html" title="immersed_boundary/ibm\l_volume_conservation.hpp" alt="" coords="7537,155,7734,196"/>
+<area shape="rect" id="node98" href="$ibm__tribend_8hpp.html" title="immersed_boundary/ibm\l_tribend.hpp" alt="" coords="7759,155,7944,196"/>
+<area shape="rect" id="node10" href="$utils_8hpp.html" title="Small functions that are useful not only for one modul. " alt="" coords="5067,572,5145,599"/>
+<area shape="rect" id="node15" href="$debug_8hpp.html" title="This file controls debug facilities. " alt="" coords="5143,647,5234,673"/>
+<area shape="rect" id="node16" href="$lees__edwards_8hpp.html" title="lees_edwards.hpp" alt="" coords="4930,647,5069,673"/>
+<area shape="rect" id="node17" href="$errorhandling_8hpp.html" title="This file contains the errorhandling code for severe errors, like a broken bond or illegal parameter ..." alt="" coords="7904,647,8041,673"/>
+<area shape="rect" id="node21" href="$particle__data_8hpp.html" title="For more information on particle_data, see particle_data.c. " alt="" coords="4379,497,4513,524"/>
+<area shape="rect" id="node24" href="$interaction__data_8hpp.html" title="Various procedures concerning interactions between particles. " alt="" coords="4140,423,4296,449"/>
+<area shape="rect" id="node26" href="$SystemInterface_8hpp.html" title="SystemInterface.hpp" alt="" coords="563,497,721,524"/>
+<area shape="rect" id="node28" href="$cuda__interface_8hpp.html" title="cuda_interface.hpp" alt="" coords="310,423,457,449"/>
+<area shape="rect" id="node27" href="$Vector_8hpp.html" title="Vector.hpp" alt="" coords="655,572,746,599"/>
+<area shape="rect" id="node30" href="$iccp3m_8hpp.html" title="ICCP3M is a method that allows to take into account the influence of arbitrarliy shaped dielectric in..." alt="" coords="7325,341,7423,367"/>
+<area shape="rect" id="node33" href="$external__potential_8hpp.html" title="external_potential.hpp" alt="" coords="7447,341,7616,367"/>
+<area shape="rect" id="node34" href="$Actor_8hpp.html" title="actor/Actor.hpp" alt="" coords="5250,423,5370,449"/>
+<area shape="rect" id="node35" href="$ActorList_8hpp.html" title="actor/ActorList.hpp" alt="" coords="7106,341,7250,367"/>
+<area shape="rect" id="node31" href="$cells_8hpp.html" title="This file contains everything related to the cell structure / cell system. " alt="" coords="7454,423,7534,449"/>
+<area shape="rect" id="node32" href="$integrate_8hpp.html" title="Molecular dynamics integrator. " alt="" coords="7169,423,7278,449"/>
+<area shape="rect" id="node38" href="$p3m-common_8hpp.html" title="common functions for dipolar and charge p3m. " alt="" coords="745,497,886,524"/>
+<area shape="rect" id="node40" href="$mol__cut_8hpp.html" title="mol_cut.hpp" alt="" coords="2723,251,2825,278"/>
+<area shape="rect" id="node43" href="$forcecap_8hpp.html" title="forcecap.hpp" alt="" coords="1730,251,1837,278"/>
+<area shape="rect" id="node41" href="$virtual__sites_8hpp.html" title="This file contains routine to handle virtual sites Virtual sites are like particles, but they will be not integrated. " alt="" coords="2330,341,2461,367"/>
+<area shape="rect" id="node42" href="$virtual__sites__relative_8hpp.html" title="virtual_sites_relative.hpp" alt="" coords="2279,423,2466,449"/>
+<area shape="rect" id="node53" href="$dihedral_8hpp.html" title="Routines to calculate the dihedral energy or/and and force for a particle quadruple. " alt="" coords="3925,341,4028,367"/>
+<area shape="rect" id="node54" href="$grid_8hpp.html" title="Domain decomposition for parallel computing. " alt="" coords="5970,423,6045,449"/>
+<area shape="rect" id="node61" href="$random_8hpp.html" title="A random generator. " alt="" coords="6885,423,6985,449"/>
+<area shape="rect" id="node66" href="$lb_8hpp.html" title="Header file for lb.cpp. " alt="" coords="7864,423,7927,449"/>
+<area shape="rect" id="node80" href="$statistics_8hpp.html" title="This file contains the code for statistics on the data. " alt="" coords="8254,341,8363,367"/>
+<area shape="rect" id="node83" href="$mpi_8h.html" title="This is the MPIfake implementation. " alt="" coords="8642,423,8701,449"/>
+<area shape="rect" id="node94" href="$EwaldgpuForce_8hpp.html" title="actor/EwaldgpuForce.hpp" alt="" coords="549,341,735,367"/>
+<area shape="rect" id="node100" href="$lb-boundaries_8hpp.html" title="Boundary conditions for Lattice Boltzmann fluid dynamics. " alt="" coords="259,251,398,278"/>
+</map>

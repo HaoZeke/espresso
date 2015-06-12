@@ -48,6 +48,7 @@ source [file join [file dirname [info script]] topo.tcl]
 source [file join [file dirname [info script]] math.tcl]
 source [file join [file dirname [info script]] misc.tcl]
 source [file join [file dirname [info script]] setup.tcl]
+source [file join [file dirname [info script]] plot.tcl]
 
 
 

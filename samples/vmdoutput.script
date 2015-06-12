@@ -1,0 +1,5 @@
+mol load psf harmonic_oscillator_s4.psf pdb harmonic_oscillator_s4.pdb
+rotate stop
+imd connect 127.0.0.1 10000
+mol modstyle 0 0 CPK 1.000000 0.300000 8.000000 6.000000
+mol modcolor 0 0 SegName

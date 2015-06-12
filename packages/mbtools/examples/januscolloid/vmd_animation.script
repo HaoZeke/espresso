@@ -1,0 +1,13 @@
+loadseries januscolloid.vmd 1 0
+rotate stop
+mol modstyle 0 0 lines
+mol modcolor 0 0 SegName
+logfile vmd.log
+logfile off
+mol color SegName
+mol representation Lines 1.000000
+mol selection all
+mol material Opaque
+mol addrep 0
+mol modselect 1 0 segname T003
+mol modstyle 1 0 CPK 4.000000 0.300000 8.000000 6.000000

@@ -346,15 +346,15 @@ while { $i<$n_cycle } {
 
     incr i
 }
-close $obs
+#close $obs
 
 
 # Uncommenting the following two lines will show
 # you a plot of the rg values
-#plotObs "rg.dat" { 1:2 } labels { "time" "rg" } out "rg"
+plot $obs "rg.dat" { 1:2 } labels { "time" "rg" } out "rg"
 # The 'exec' command is quite useful since with that you can#
 # call any other program from within your simulation script.#
-#exec gv rg.ps
+exec xmgrace rg.dat
 
 
 #############################################################

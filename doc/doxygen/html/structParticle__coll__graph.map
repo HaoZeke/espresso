@@ -1,0 +1,10 @@
+<map id="Particle" name="Particle">
+<area shape="rect" id="node2" href="$structParticleProperties.html" title="Properties of a particle which are not supposed to change during the integration, but have to be know..." alt="" coords="272,5,408,32"/>
+<area shape="rect" id="node3" href="$structParticleParametersSwimming.html" title="ParticleParametersSwimming" alt="" coords="233,56,447,83"/>
+<area shape="rect" id="node4" href="$structParticleForce.html" title="Force information on a particle. " alt="" coords="287,107,393,133"/>
+<area shape="rect" id="node5" href="$structIntList.html" title="Integer list. " alt="" coords="309,157,371,184"/>
+<area shape="rect" id="node6" href="$structParticleLocal.html" title="Information on a particle that is needed only on the node the particle belongs to. " alt="" coords="288,271,392,297"/>
+<area shape="rect" id="node7" href="$structParticleMomentum.html" title="Momentum information on a particle. " alt="" coords="5,232,149,259"/>
+<area shape="rect" id="node8" href="$structParticlePosition.html" title="Positional information on a particle. " alt="" coords="16,301,139,328"/>
+<area shape="rect" id="node9" href="$structParticleLatticeCoupling.html" title="Data related to the Lattice Boltzmann hydrodynamic coupling. " alt="" coords="255,395,425,421"/>
+</map>

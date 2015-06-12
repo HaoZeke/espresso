@@ -1,0 +1,12 @@
+<map id="specfunc.hpp" name="specfunc.hpp">
+<area shape="rect" id="node2" href="$mmm-common_8hpp.html" title="modified polygamma functions. " alt="" coords="523,80,673,107"/>
+<area shape="rect" id="node7" href="$mmm1d_8cpp.html" title="MMM1D algorithm for long range coulomb interaction. " alt="" coords="689,155,793,181"/>
+<area shape="rect" id="node8" href="$mmm2d_8cpp.html" title="MMM2D algorithm for long range coulomb interaction. " alt="" coords="817,155,921,181"/>
+<area shape="rect" id="node10" href="$mmm1d__tcl_8cpp.html" title="mmm1d_tcl.cpp" alt="" coords="945,155,1072,181"/>
+<area shape="rect" id="node11" href="$specfunc_8cpp.html" title="Special functions, see specfunc.h. " alt="" coords="937,80,1043,107"/>
+<area shape="rect" id="node3" href="$mmm-common__cuda_8hpp.html" title="mmm&#45;common_cuda.hpp" alt="" coords="475,155,665,181"/>
+<area shape="rect" id="node5" href="$elc_8cpp.html" title="For more information about ELC, see elc.hpp. " alt="" coords="5,155,73,181"/>
+<area shape="rect" id="node6" href="$mmm-common_8cpp.html" title="Common parts of the MMM family of methods for the electrostatic interaction, MMM1D, MMM2D and ELC. " alt="" coords="97,155,248,181"/>
+<area shape="rect" id="node9" href="$interaction__data__tcl_8cpp.html" title="interaction_data_tcl.cpp" alt="" coords="273,155,451,181"/>
+<area shape="rect" id="node4" href="$Mmm1dgpuForce__cuda_8cu.html" title="Mmm1dgpuForce_cuda.cu" alt="" coords="475,229,665,256"/>
+</map>

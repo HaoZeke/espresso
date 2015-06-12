@@ -1,0 +1,43 @@
+pbc 43.088693800637664 43.088693800637664 43.088693800637664
+atom 0:39 radius 0.5 name O type 0 q 1.0
+atom 40:79 radius 0.5 name N type 1 q -1.0
+bond 1:0
+bond 2:1
+bond 3:2
+bond 4:3
+bond 5:4
+bond 6:5
+bond 7:6
+bond 8:7
+bond 9:8
+bond 10:9
+bond 11:10
+bond 12:11
+bond 13:12
+bond 14:13
+bond 15:14
+bond 16:15
+bond 17:16
+bond 18:17
+bond 19:18
+bond 20:19
+bond 21:20
+bond 22:21
+bond 23:22
+bond 24:23
+bond 25:24
+bond 26:25
+bond 27:26
+bond 28:27
+bond 29:28
+bond 30:29
+bond 31:30
+bond 32:31
+bond 33:32
+bond 34:33
+bond 35:34
+bond 36:35
+bond 37:36
+bond 38:37
+bond 39:38
+

@@ -1,0 +1,29 @@
+<map id="magnetic_non_p3m_methods.hpp" name="magnetic_non_p3m_methods.hpp">
+<area shape="rect" id="node2" href="$forces__inline_8hpp.html" title="forces_inline.hpp" alt="" coords="1140,87,1273,114"/>
+<area shape="rect" id="node10" href="$interaction__data_8cpp.html" title="Implementation of interaction_data.hpp. " alt="" coords="5,251,160,278"/>
+<area shape="rect" id="node26" href="$energy_8cpp.html" title="Implementation of energy.hpp. " alt="" coords="1298,87,1390,114"/>
+<area shape="rect" id="node27" href="$magnetic__non__p3m__methods_8cpp.html" title="All 3d non P3M methods to deal with the magnetic dipoles. " alt="" coords="1414,87,1655,114"/>
+<area shape="rect" id="node28" href="$magnetic__non__p3m__methods__tcl_8cpp.html" title="magnetic_non_p3m_methods\l_tcl.cpp" alt="" coords="1679,80,1894,121"/>
+<area shape="rect" id="node3" href="$pressure_8hpp.html" title="Pressure calculation. " alt="" coords="1019,169,1125,196"/>
+<area shape="rect" id="node11" href="$layered_8cpp.html" title="Implementation of layered.h. " alt="" coords="184,251,283,278"/>
+<area shape="rect" id="node20" href="$minimize__energy_8hpp.html" title="minimize_energy.hpp" alt="" coords="2257,169,2418,196"/>
+<area shape="rect" id="node23" href="$constraint_8cpp.html" title="Implementation of constraint.hpp, here it&#39;s just the parsing stuff. " alt="" coords="1149,169,1264,196"/>
+<area shape="rect" id="node24" href="$forces_8cpp.html" title="Force calculation. " alt="" coords="1289,169,1378,196"/>
+<area shape="rect" id="node25" href="$ghosts_8cpp.html" title="Ghost particles and particle exchange. " alt="" coords="1402,169,1494,196"/>
+<area shape="rect" id="node4" href="$communication_8cpp.html" title="communication.cpp" alt="" coords="2109,251,2259,278"/>
+<area shape="rect" id="node5" href="$domain__decomposition_8cpp.html" title="This file contains everything related to the cell system: domain decomposition. " alt="" coords="1791,251,1993,278"/>
+<area shape="rect" id="node6" href="$elc_8cpp.html" title="For more information about ELC, see elc.hpp. " alt="" coords="2017,251,2085,278"/>
+<area shape="rect" id="node7" href="$initialize_8cpp.html" title="Implementation of initialize.hpp. " alt="" coords="307,251,413,278"/>
+<area shape="rect" id="node8" href="$core_2integrate_8cpp.html" title="integrate.cpp" alt="" coords="2283,251,2391,278"/>
+<area shape="rect" id="node9" href="$integrate__sd_8cpp.html" title="Stokesian dynamics integrator. " alt="" coords="436,251,567,278"/>
+<area shape="rect" id="node12" href="$nsquare_8cpp.html" title="Implementation of nsquare.h. " alt="" coords="591,251,692,278"/>
+<area shape="rect" id="node13" href="$pressure_8cpp.html" title="Implementation of pressure.h. " alt="" coords="717,251,822,278"/>
+<area shape="rect" id="node14" href="$statistics_8cpp.html" title="This is the place for analysis (so far...). " alt="" coords="846,251,954,278"/>
+<area shape="rect" id="node15" href="$statistics__observable_8cpp.html" title="statistics_observable.cpp" alt="" coords="979,251,1165,278"/>
+<area shape="rect" id="node16" href="$verlet_8cpp.html" title="Verlet list. " alt="" coords="1190,251,1277,278"/>
+<area shape="rect" id="node17" href="$virtual__sites_8cpp.html" title="virtual_sites.cpp" alt="" coords="1301,251,1430,278"/>
+<area shape="rect" id="node18" href="$pressure__tcl_8cpp.html" title="pressure_tcl.cpp" alt="" coords="1455,251,1583,278"/>
+<area shape="rect" id="node19" href="$statistics__observable__tcl_8cpp.html" title="statistics_observable\l_tcl.cpp" alt="" coords="1607,244,1767,285"/>
+<area shape="rect" id="node21" href="$minimize__energy_8cpp.html" title="minimize_energy.cpp" alt="" coords="2416,251,2576,278"/>
+<area shape="rect" id="node22" href="$minimize__energy__tcl_8cpp.html" title="minimize_energy_tcl.cpp" alt="" coords="2601,251,2786,278"/>
+</map>

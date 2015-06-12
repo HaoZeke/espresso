@@ -1,0 +1,791 @@
+# VMD for LINUXAMD64, version 1.9.2 (December 29, 2014)
+# Log file 'vmd.log', created by user haozeke
+mol addrep 0
+display resetview
+mol new {tutorial.vsf} type {vsf} first 0 last -1 step 1 waitfor -1
+animate style Loop
+mol modstyle 0 0 CPK 1.800000 0.300000 8.000000 6.000000
+mol modcolor 0 0 Name
+imd connect localhost 10000
+imd transrate 1
+imd keep 1
+menu main on
+menu main on
+menu graphics off
+menu tkcon off
+menu files off
+menu apbsrun off
+menu autoimd off
+menu autoionize off
+menu autopsf off
+menu bendix off
+menu biocorechat off
+menu biocorelogin off
+menu biocorepubsync off
+menu biocoreutil off
+menu cggui off
+menu chirality_gui off
+menu cispeptide_gui off
+menu cliptool off
+menu clonerep off
+menu color off
+menu colorscalebar off
+menu contactmap off
+menu dataimport off
+menu dipwatch off
+menu display off
+menu dowser_gui off
+menu forcefieldtoolkit off
+menu gofrgui off
+menu hbonds off
+menu heatmapper off
+menu ilstools off
+menu imd off
+menu inorganicbuilder off
+menu irspecgui off
+menu labels off
+menu material off
+menu mdff_gui off
+menu membrane off
+menu mergestructs off
+menu molefacture off
+menu multimolanim off
+menu multiseq off
+menu multitext off
+menu mutator off
+menu namdenergy off
+menu namdgui off
+menu namdplot off
+menu nanotube off
+menu navfly off
+menu navigate off
+menu networkview off
+menu nmwiz off
+menu palettetool off
+menu parsefep off
+menu pdbtool off
+menu plumed off
+menu pmepot off
+menu propka off
+menu qmtool off
+menu ramaplot off
+menu remote off
+menu render off
+menu rmsd off
+menu rmsdtt off
+menu rmsdvt off
+menu ruler off
+menu saltbr off
+menu save off
+menu sequence off
+menu solvate off
+menu symmetrytool off
+menu timeline off
+menu tool off
+menu vdna off
+menu viewchangerender_gui off
+menu viewmaster off
+menu vmdmovie off
+menu vmdprefs off
+menu volmap off
+display projection Perspective
+display depthcue on
+display cuemode Exp2
+display cuestart 0.500000
+display cueend 10.000000
+display cuedensity 0.320000
+display eyesep 0.070000
+display focallength 2.000000
+display height 6.000000
+display distance -2.000000
+display culling off
+display fps off
+display stereoswap off
+display cachemode Off
+display rendermode Normal
+display shadows off
+display ambientocclusion off
+display aoambient 0.800000
+display aodirect 0.300000
+display stereo Off
+display nearclip set 0.500000
+display farclip set 10.000000
+display backgroundgradient off
+axes location LowerLeft
+light 0 on
+light 1 on
+light 2 off
+light 3 off
+color add item {Display} {Background} {black}
+color Display Background black
+color add item {Display} {BackgroundTop} {black}
+color Display BackgroundTop black
+color add item {Display} {BackgroundBot} {blue2}
+color Display BackgroundBot blue2
+color add item {Display} {Foreground} {white}
+color Display Foreground white
+color add item {Display} {FPS} {white}
+color Display FPS white
+color add item {Axes} {Y} {green}
+color Axes Y green
+color add item {Axes} {X} {red}
+color Axes X red
+color add item {Axes} {Z} {blue}
+color Axes Z blue
+color add item {Axes} {Origin} {cyan}
+color Axes Origin cyan
+color add item {Axes} {Labels} {white}
+color Axes Labels white
+color add item {Name} {H} {white}
+color Name H white
+color add item {Name} {O} {red}
+color Name O red
+color add item {Name} {N} {blue}
+color Name N blue
+color add item {Name} {C} {cyan}
+color Name C cyan
+color add item {Name} {S} {yellow}
+color Name S yellow
+color add item {Name} {P} {tan}
+color Name P tan
+color add item {Name} {Z} {silver}
+color Name Z silver
+color add item {Name} {LPA} {green}
+color Name LPA green
+color add item {Name} {LPB} {green}
+color Name LPB green
+color add item {Name} {F} {pink}
+color Name F pink
+color add item {Type} {H} {white}
+color Type H white
+color add item {Type} {O} {red}
+color Type O red
+color add item {Type} {N} {blue}
+color Type N blue
+color add item {Type} {C} {cyan}
+color Type C cyan
+color add item {Type} {S} {yellow}
+color Type S yellow
+color add item {Type} {P} {tan}
+color Type P tan
+color add item {Type} {Z} {silver}
+color Type Z silver
+color add item {Type} {LP} {green}
+color Type LP green
+color add item {Type} {DRUD} {pink}
+color Type DRUD pink
+color add item {Type} {F} {pink}
+color Type F pink
+color add item {Element} {X} {cyan}
+color Element X cyan
+color add item {Element} {Ac} {ochre}
+color Element Ac ochre
+color add item {Element} {Ag} {ochre}
+color Element Ag ochre
+color add item {Element} {Al} {ochre}
+color Element Al ochre
+color add item {Element} {Am} {ochre}
+color Element Am ochre
+color add item {Element} {Ar} {ochre}
+color Element Ar ochre
+color add item {Element} {As} {ochre}
+color Element As ochre
+color add item {Element} {At} {ochre}
+color Element At ochre
+color add item {Element} {Au} {ochre}
+color Element Au ochre
+color add item {Element} {B} {ochre}
+color Element B ochre
+color add item {Element} {Ba} {ochre}
+color Element Ba ochre
+color add item {Element} {Be} {ochre}
+color Element Be ochre
+color add item {Element} {Bh} {ochre}
+color Element Bh ochre
+color add item {Element} {Bi} {ochre}
+color Element Bi ochre
+color add item {Element} {Bk} {ochre}
+color Element Bk ochre
+color add item {Element} {Br} {ochre}
+color Element Br ochre
+color add item {Element} {C} {cyan}
+color Element C cyan
+color add item {Element} {Ca} {ochre}
+color Element Ca ochre
+color add item {Element} {Cd} {ochre}
+color Element Cd ochre
+color add item {Element} {Ce} {ochre}
+color Element Ce ochre
+color add item {Element} {Cf} {ochre}
+color Element Cf ochre
+color add item {Element} {Cl} {ochre}
+color Element Cl ochre
+color add item {Element} {Cm} {ochre}
+color Element Cm ochre
+color add item {Element} {Co} {ochre}
+color Element Co ochre
+color add item {Element} {Cr} {ochre}
+color Element Cr ochre
+color add item {Element} {Cs} {ochre}
+color Element Cs ochre
+color add item {Element} {Cu} {ochre}
+color Element Cu ochre
+color add item {Element} {Db} {ochre}
+color Element Db ochre
+color add item {Element} {Ds} {ochre}
+color Element Ds ochre
+color add item {Element} {Dy} {ochre}
+color Element Dy ochre
+color add item {Element} {Er} {ochre}
+color Element Er ochre
+color add item {Element} {Es} {ochre}
+color Element Es ochre
+color add item {Element} {Eu} {ochre}
+color Element Eu ochre
+color add item {Element} {F} {ochre}
+color Element F ochre
+color add item {Element} {Fe} {ochre}
+color Element Fe ochre
+color add item {Element} {Fm} {ochre}
+color Element Fm ochre
+color add item {Element} {Fr} {ochre}
+color Element Fr ochre
+color add item {Element} {Ga} {ochre}
+color Element Ga ochre
+color add item {Element} {Gd} {ochre}
+color Element Gd ochre
+color add item {Element} {Ge} {ochre}
+color Element Ge ochre
+color add item {Element} {H} {white}
+color Element H white
+color add item {Element} {He} {ochre}
+color Element He ochre
+color add item {Element} {Hf} {ochre}
+color Element Hf ochre
+color add item {Element} {Hg} {ochre}
+color Element Hg ochre
+color add item {Element} {Ho} {ochre}
+color Element Ho ochre
+color add item {Element} {Hs} {ochre}
+color Element Hs ochre
+color add item {Element} {I} {ochre}
+color Element I ochre
+color add item {Element} {In} {ochre}
+color Element In ochre
+color add item {Element} {Ir} {ochre}
+color Element Ir ochre
+color add item {Element} {K} {ochre}
+color Element K ochre
+color add item {Element} {Kr} {ochre}
+color Element Kr ochre
+color add item {Element} {La} {ochre}
+color Element La ochre
+color add item {Element} {Li} {ochre}
+color Element Li ochre
+color add item {Element} {Lr} {ochre}
+color Element Lr ochre
+color add item {Element} {Lu} {ochre}
+color Element Lu ochre
+color add item {Element} {Md} {ochre}
+color Element Md ochre
+color add item {Element} {Mg} {ochre}
+color Element Mg ochre
+color add item {Element} {Mn} {ochre}
+color Element Mn ochre
+color add item {Element} {Mo} {ochre}
+color Element Mo ochre
+color add item {Element} {Mt} {ochre}
+color Element Mt ochre
+color add item {Element} {N} {blue}
+color Element N blue
+color add item {Element} {Na} {ochre}
+color Element Na ochre
+color add item {Element} {Nb} {ochre}
+color Element Nb ochre
+color add item {Element} {Nd} {ochre}
+color Element Nd ochre
+color add item {Element} {Ne} {ochre}
+color Element Ne ochre
+color add item {Element} {Ni} {ochre}
+color Element Ni ochre
+color add item {Element} {No} {ochre}
+color Element No ochre
+color add item {Element} {Np} {ochre}
+color Element Np ochre
+color add item {Element} {O} {red}
+color Element O red
+color add item {Element} {Os} {ochre}
+color Element Os ochre
+color add item {Element} {P} {tan}
+color Element P tan
+color add item {Element} {Pa} {ochre}
+color Element Pa ochre
+color add item {Element} {Pb} {ochre}
+color Element Pb ochre
+color add item {Element} {Pd} {ochre}
+color Element Pd ochre
+color add item {Element} {Pm} {ochre}
+color Element Pm ochre
+color add item {Element} {Po} {ochre}
+color Element Po ochre
+color add item {Element} {Pr} {ochre}
+color Element Pr ochre
+color add item {Element} {Pt} {ochre}
+color Element Pt ochre
+color add item {Element} {Pu} {ochre}
+color Element Pu ochre
+color add item {Element} {Ra} {ochre}
+color Element Ra ochre
+color add item {Element} {Rb} {ochre}
+color Element Rb ochre
+color add item {Element} {Re} {ochre}
+color Element Re ochre
+color add item {Element} {Rf} {ochre}
+color Element Rf ochre
+color add item {Element} {Rg} {ochre}
+color Element Rg ochre
+color add item {Element} {Rh} {ochre}
+color Element Rh ochre
+color add item {Element} {Rn} {ochre}
+color Element Rn ochre
+color add item {Element} {Ru} {ochre}
+color Element Ru ochre
+color add item {Element} {S} {yellow}
+color Element S yellow
+color add item {Element} {Sb} {ochre}
+color Element Sb ochre
+color add item {Element} {Sc} {ochre}
+color Element Sc ochre
+color add item {Element} {Se} {ochre}
+color Element Se ochre
+color add item {Element} {Sg} {ochre}
+color Element Sg ochre
+color add item {Element} {Si} {ochre}
+color Element Si ochre
+color add item {Element} {Sm} {ochre}
+color Element Sm ochre
+color add item {Element} {Sn} {ochre}
+color Element Sn ochre
+color add item {Element} {Sr} {ochre}
+color Element Sr ochre
+color add item {Element} {Ta} {ochre}
+color Element Ta ochre
+color add item {Element} {Tb} {ochre}
+color Element Tb ochre
+color add item {Element} {Tc} {ochre}
+color Element Tc ochre
+color add item {Element} {Te} {ochre}
+color Element Te ochre
+color add item {Element} {Th} {ochre}
+color Element Th ochre
+color add item {Element} {Ti} {ochre}
+color Element Ti ochre
+color add item {Element} {Tl} {ochre}
+color Element Tl ochre
+color add item {Element} {Tm} {ochre}
+color Element Tm ochre
+color add item {Element} {U} {ochre}
+color Element U ochre
+color add item {Element} {V} {ochre}
+color Element V ochre
+color add item {Element} {W} {ochre}
+color Element W ochre
+color add item {Element} {Xe} {ochre}
+color Element Xe ochre
+color add item {Element} {Y} {ochre}
+color Element Y ochre
+color add item {Element} {Yb} {ochre}
+color Element Yb ochre
+color add item {Element} {Zn} {silver}
+color Element Zn silver
+color add item {Element} {Zr} {ochre}
+color Element Zr ochre
+color add item {Resname} {ALA} {blue}
+color Resname ALA blue
+color add item {Resname} {ARG} {white}
+color Resname ARG white
+color add item {Resname} {ASN} {tan}
+color Resname ASN tan
+color add item {Resname} {ASP} {red}
+color Resname ASP red
+color add item {Resname} {CYS} {yellow}
+color Resname CYS yellow
+color add item {Resname} {GLY} {white}
+color Resname GLY white
+color add item {Resname} {GLU} {pink}
+color Resname GLU pink
+color add item {Resname} {GLN} {orange}
+color Resname GLN orange
+color add item {Resname} {HIS} {cyan}
+color Resname HIS cyan
+color add item {Resname} {ILE} {green}
+color Resname ILE green
+color add item {Resname} {LEU} {pink}
+color Resname LEU pink
+color add item {Resname} {LYS} {cyan}
+color Resname LYS cyan
+color add item {Resname} {MET} {yellow}
+color Resname MET yellow
+color add item {Resname} {PHE} {purple}
+color Resname PHE purple
+color add item {Resname} {PRO} {ochre}
+color Resname PRO ochre
+color add item {Resname} {SER} {yellow}
+color Resname SER yellow
+color add item {Resname} {THR} {mauve}
+color Resname THR mauve
+color add item {Resname} {TRP} {silver}
+color Resname TRP silver
+color add item {Resname} {TYR} {green}
+color Resname TYR green
+color add item {Resname} {VAL} {tan}
+color Resname VAL tan
+color add item {Resname} {ADE} {blue}
+color Resname ADE blue
+color add item {Resname} {CYT} {orange}
+color Resname CYT orange
+color add item {Resname} {GUA} {yellow}
+color Resname GUA yellow
+color add item {Resname} {THY} {purple}
+color Resname THY purple
+color add item {Resname} {URA} {green}
+color Resname URA green
+color add item {Resname} {TIP} {cyan}
+color Resname TIP cyan
+color add item {Resname} {TIP3} {cyan}
+color Resname TIP3 cyan
+color add item {Resname} {WAT} {cyan}
+color Resname WAT cyan
+color add item {Resname} {SOL} {cyan}
+color Resname SOL cyan
+color add item {Resname} {H2O} {cyan}
+color Resname H2O cyan
+color add item {Resname} {LYR} {purple}
+color Resname LYR purple
+color add item {Resname} {ZN} {silver}
+color Resname ZN silver
+color add item {Resname} {NA} {yellow}
+color Resname NA yellow
+color add item {Resname} {CL} {green}
+color Resname CL green
+color add item {Resname} {HSE} {cyan}
+color Resname HSE cyan
+color add item {Resname} {HSD} {cyan}
+color Resname HSD cyan
+color add item {Resname} {HSP} {cyan}
+color Resname HSP cyan
+color add item {Resname} {CYX} {yellow}
+color Resname CYX yellow
+color add item {Resname} {UNX} {silver}
+color Resname UNX silver
+color add item {Restype} {Unassigned} {cyan}
+color Restype Unassigned cyan
+color add item {Restype} {Solvent} {yellow}
+color Restype Solvent yellow
+color add item {Restype} {Nucleic_Acid} {purple}
+color Restype Nucleic_Acid purple
+color add item {Restype} {Basic} {blue}
+color Restype Basic blue
+color add item {Restype} {Acidic} {red}
+color Restype Acidic red
+color add item {Restype} {Polar} {green}
+color Restype Polar green
+color add item {Restype} {Nonpolar} {white}
+color Restype Nonpolar white
+color add item {Restype} {Ion} {tan}
+color Restype Ion tan
+color add item {Chain} {F} {blue}
+color Chain F blue
+color add item {Segname} {T000} {blue}
+color Segname T000 blue
+color add item {Conformation} {all} {blue}
+color Conformation all blue
+color add item {Molecule} {0} {blue}
+color Molecule 0 blue
+color add item {Highlight} {Proback} {green}
+color Highlight Proback green
+color add item {Highlight} {Nucback} {yellow}
+color Highlight Nucback yellow
+color add item {Highlight} {Nonback} {blue}
+color Highlight Nonback blue
+color add item {Structure} {Alpha Helix} {purple}
+color Structure Alpha Helix purple
+color add item {Structure} {3_10_Helix} {blue}
+color Structure 3_10_Helix blue
+color add item {Structure} {Pi_Helix} {red}
+color Structure Pi_Helix red
+color add item {Structure} {Extended_Beta} {yellow}
+color Structure Extended_Beta yellow
+color add item {Structure} {Bridge_Beta} {tan}
+color Structure Bridge_Beta tan
+color add item {Structure} {Turn} {cyan}
+color Structure Turn cyan
+color add item {Structure} {Coil} {white}
+color Structure Coil white
+color add item {Surface} {Grasp} {gray}
+color Surface Grasp gray
+color add item {Labels} {Atoms} {green}
+color Labels Atoms green
+color add item {Labels} {Bonds} {white}
+color Labels Bonds white
+color add item {Labels} {Angles} {yellow}
+color Labels Angles yellow
+color add item {Labels} {Dihedrals} {cyan}
+color Labels Dihedrals cyan
+color add item {Labels} {Springs} {orange}
+color Labels Springs orange
+color add item {Stage} {Even} {gray}
+color Stage Even gray
+color add item {Stage} {Odd} {silver}
+color Stage Odd silver
+color change rgb blue 0.000000 0.000000 1.000000
+color change rgb red 1.000000 0.000000 0.000000
+color change rgb gray 0.350000 0.350000 0.350000
+color change rgb orange 1.000000 0.500000 0.000000
+color change rgb yellow 1.000000 1.000000 0.000000
+color change rgb tan 0.500000 0.500000 0.200000
+color change rgb silver 0.600000 0.600000 0.600000
+color change rgb green 0.000000 1.000000 0.000000
+color change rgb white 1.000000 1.000000 1.000000
+color change rgb pink 1.000000 0.600000 0.600000
+color change rgb cyan 0.250000 0.750000 0.750000
+color change rgb purple 0.650000 0.000000 0.650000
+color change rgb lime 0.500000 0.900000 0.400000
+color change rgb mauve 0.900000 0.400000 0.700000
+color change rgb ochre 0.500000 0.300000 0.000000
+color change rgb iceblue 0.500000 0.500000 0.750000
+color change rgb black 0.000000 0.000000 0.000000
+color change rgb yellow2 0.880000 0.970000 0.020000
+color change rgb yellow3 0.550000 0.900000 0.020000
+color change rgb green2 0.000000 0.900000 0.040000
+color change rgb green3 0.000000 0.900000 0.500000
+color change rgb cyan2 0.000000 0.880000 1.000000
+color change rgb cyan3 0.000000 0.760000 1.000000
+color change rgb blue2 0.020000 0.380000 0.670000
+color change rgb blue3 0.010000 0.040000 0.930000
+color change rgb violet 0.270000 0.000000 0.980000
+color change rgb violet2 0.450000 0.000000 0.900000
+color change rgb magenta 0.900000 0.000000 0.900000
+color change rgb magenta2 1.000000 0.000000 0.660000
+color change rgb red2 0.980000 0.000000 0.230000
+color change rgb red3 0.810000 0.000000 0.000000
+color change rgb orange2 0.890000 0.350000 0.000000
+color change rgb orange3 0.960000 0.720000 0.000000
+color scale method RWB
+color scale midpoint 0.500000
+color scale min 0.100000
+color scale max 1.000000
+
+color scale midpoint 0.500000
+color scale min 0.100000
+color scale max 1.000000
+
+material change ambient Opaque 0.000000
+material change diffuse Opaque 0.650000
+material change specular Opaque 0.500000
+material change shininess Opaque 0.534000
+material change mirror Opaque 0.000000
+material change opacity Opaque 1.000000
+material change outline Opaque 0.000000
+material change outlinewidth Opaque 0.000000
+material change transmode Opaque 0.000000
+material change ambient Transparent 0.000000
+material change diffuse Transparent 0.650000
+material change specular Transparent 0.500000
+material change shininess Transparent 0.534000
+material change mirror Transparent 0.000000
+material change opacity Transparent 0.300000
+material change outline Transparent 0.000000
+material change outlinewidth Transparent 0.000000
+material change transmode Transparent 0.000000
+material change ambient BrushedMetal 0.080000
+material change diffuse BrushedMetal 0.390000
+material change specular BrushedMetal 0.340000
+material change shininess BrushedMetal 0.150000
+material change mirror BrushedMetal 0.000000
+material change opacity BrushedMetal 1.000000
+material change outline BrushedMetal 0.000000
+material change outlinewidth BrushedMetal 0.000000
+material change transmode BrushedMetal 0.000000
+material change ambient Diffuse 0.000000
+material change diffuse Diffuse 0.620000
+material change specular Diffuse 0.000000
+material change shininess Diffuse 0.530000
+material change mirror Diffuse 0.000000
+material change opacity Diffuse 1.000000
+material change outline Diffuse 0.000000
+material change outlinewidth Diffuse 0.000000
+material change transmode Diffuse 0.000000
+material change ambient Ghost 0.000000
+material change diffuse Ghost 0.000000
+material change specular Ghost 1.000000
+material change shininess Ghost 0.230000
+material change mirror Ghost 0.000000
+material change opacity Ghost 0.100000
+material change outline Ghost 0.000000
+material change outlinewidth Ghost 0.000000
+material change transmode Ghost 0.000000
+material change ambient Glass1 0.000000
+material change diffuse Glass1 0.500000
+material change specular Glass1 0.650000
+material change shininess Glass1 0.530000
+material change mirror Glass1 0.000000
+material change opacity Glass1 0.150000
+material change outline Glass1 0.000000
+material change outlinewidth Glass1 0.000000
+material change transmode Glass1 0.000000
+material change ambient Glass2 0.520000
+material change diffuse Glass2 0.760000
+material change specular Glass2 0.220000
+material change shininess Glass2 0.590000
+material change mirror Glass2 0.000000
+material change opacity Glass2 0.680000
+material change outline Glass2 0.000000
+material change outlinewidth Glass2 0.000000
+material change transmode Glass2 0.000000
+material change ambient Glass3 0.150000
+material change diffuse Glass3 0.250000
+material change specular Glass3 0.750000
+material change shininess Glass3 0.800000
+material change mirror Glass3 0.000000
+material change opacity Glass3 0.500000
+material change outline Glass3 0.000000
+material change outlinewidth Glass3 0.000000
+material change transmode Glass3 0.000000
+material change ambient Glossy 0.000000
+material change diffuse Glossy 0.650000
+material change specular Glossy 1.000000
+material change shininess Glossy 0.880000
+material change mirror Glossy 0.000000
+material change opacity Glossy 1.000000
+material change outline Glossy 0.000000
+material change outlinewidth Glossy 0.000000
+material change transmode Glossy 0.000000
+material change ambient HardPlastic 0.000000
+material change diffuse HardPlastic 0.560000
+material change specular HardPlastic 0.280000
+material change shininess HardPlastic 0.690000
+material change mirror HardPlastic 0.000000
+material change opacity HardPlastic 1.000000
+material change outline HardPlastic 0.000000
+material change outlinewidth HardPlastic 0.000000
+material change transmode HardPlastic 0.000000
+material change ambient MetallicPastel 0.000000
+material change diffuse MetallicPastel 0.260000
+material change specular MetallicPastel 0.550000
+material change shininess MetallicPastel 0.190000
+material change mirror MetallicPastel 0.000000
+material change opacity MetallicPastel 1.000000
+material change outline MetallicPastel 0.000000
+material change outlinewidth MetallicPastel 0.000000
+material change transmode MetallicPastel 0.000000
+material change ambient Steel 0.250000
+material change diffuse Steel 0.000000
+material change specular Steel 0.380000
+material change shininess Steel 0.320000
+material change mirror Steel 0.000000
+material change opacity Steel 1.000000
+material change outline Steel 0.000000
+material change outlinewidth Steel 0.000000
+material change transmode Steel 0.000000
+material change ambient Translucent 0.000000
+material change diffuse Translucent 0.700000
+material change specular Translucent 0.600000
+material change shininess Translucent 0.300000
+material change mirror Translucent 0.000000
+material change opacity Translucent 0.800000
+material change outline Translucent 0.000000
+material change outlinewidth Translucent 0.000000
+material change transmode Translucent 0.000000
+material change ambient Edgy 0.000000
+material change diffuse Edgy 0.660000
+material change specular Edgy 0.000000
+material change shininess Edgy 0.750000
+material change mirror Edgy 0.000000
+material change opacity Edgy 1.000000
+material change outline Edgy 0.620000
+material change outlinewidth Edgy 0.940000
+material change transmode Edgy 0.000000
+material change ambient EdgyShiny 0.000000
+material change diffuse EdgyShiny 0.660000
+material change specular EdgyShiny 0.960000
+material change shininess EdgyShiny 0.750000
+material change mirror EdgyShiny 0.000000
+material change opacity EdgyShiny 1.000000
+material change outline EdgyShiny 0.760000
+material change outlinewidth EdgyShiny 0.940000
+material change transmode EdgyShiny 0.000000
+material change ambient EdgyGlass 0.000000
+material change diffuse EdgyGlass 0.660000
+material change specular EdgyGlass 0.500000
+material change shininess EdgyGlass 0.750000
+material change mirror EdgyGlass 0.000000
+material change opacity EdgyGlass 0.620000
+material change outline EdgyGlass 0.620000
+material change outlinewidth EdgyGlass 0.940000
+material change transmode EdgyGlass 0.000000
+material change ambient Goodsell 0.520000
+material change diffuse Goodsell 1.000000
+material change specular Goodsell 0.000000
+material change shininess Goodsell 0.000000
+material change mirror Goodsell 0.000000
+material change opacity Goodsell 1.000000
+material change outline Goodsell 4.000000
+material change outlinewidth Goodsell 0.900000
+material change transmode Goodsell 0.000000
+material change ambient AOShiny 0.000000
+material change diffuse AOShiny 0.850000
+material change specular AOShiny 0.200000
+material change shininess AOShiny 0.530000
+material change mirror AOShiny 0.000000
+material change opacity AOShiny 1.000000
+material change outline AOShiny 0.000000
+material change outlinewidth AOShiny 0.000000
+material change transmode AOShiny 0.000000
+material change ambient AOChalky 0.000000
+material change diffuse AOChalky 0.850000
+material change specular AOChalky 0.000000
+material change shininess AOChalky 0.530000
+material change mirror AOChalky 0.000000
+material change opacity AOChalky 1.000000
+material change outline AOChalky 0.000000
+material change outlinewidth AOChalky 0.000000
+material change transmode AOChalky 0.000000
+material change ambient AOEdgy 0.000000
+material change diffuse AOEdgy 0.900000
+material change specular AOEdgy 0.200000
+material change shininess AOEdgy 0.530000
+material change mirror AOEdgy 0.000000
+material change opacity AOEdgy 1.000000
+material change outline AOEdgy 0.620000
+material change outlinewidth AOEdgy 0.930000
+material change transmode AOEdgy 0.000000
+material change ambient BlownGlass 0.040000
+material change diffuse BlownGlass 0.340000
+material change specular BlownGlass 1.000000
+material change shininess BlownGlass 1.000000
+material change mirror BlownGlass 0.000000
+material change opacity BlownGlass 0.100000
+material change outline BlownGlass 0.000000
+material change outlinewidth BlownGlass 0.000000
+material change transmode BlownGlass 1.000000
+material change ambient GlassBubble 0.250000
+material change diffuse GlassBubble 0.340000
+material change specular GlassBubble 1.000000
+material change shininess GlassBubble 1.000000
+material change mirror GlassBubble 0.000000
+material change opacity GlassBubble 0.040000
+material change outline GlassBubble 0.000000
+material change outlinewidth GlassBubble 0.000000
+material change transmode GlassBubble 1.000000
+material change ambient RTChrome 0.000000
+material change diffuse RTChrome 0.650000
+material change specular RTChrome 0.500000
+material change shininess RTChrome 0.530000
+material change mirror RTChrome 0.700000
+material change opacity RTChrome 1.000000
+material change outline RTChrome 0.000000
+material change outlinewidth RTChrome 0.000000
+material change transmode RTChrome 0.000000
+# VMD for LINUXAMD64, version 1.9.2 (December 29, 2014)
+# end of log file.

@@ -1,0 +1,32 @@
+\form#0:$\exp(d^2) erfc(d)$
+\form#1:\[ 0.5 \Delta t^2 \]
+\form#2:\[ v(t+0.5 \Delta t) = v(t) + 0.5 \Delta t f(t) \]
+\form#3:\[ p(t+\Delta t) = p(t) + \Delta t v(t+0.5 \Delta t) \]
+\form#4:\[ v(t+\Delta t) = v(t+0.5 \Delta t) + 0.5 \Delta t f(t+\Delta t) \]
+\form#5:\[ p(t+\Delta t) = p(t) + \Delta t \mu f(t) \]
+\form#6:$1\times 1\times N$
+\form#7:$\frac{\partial}{\partial t}{D} = \nabla \times B$
+\form#8:$\frac{\partial}{\partial t}{B} = - \nabla \times D / (\epsilon)$
+\form#9:$\frac{\partial}{\partial t}{B} = \nabla\times D$
+\form#10:$\frac{\partial}{\partial t}{D} = \nabla\times B$
+\form#11:$(q-p)\,mod\,P$
+\form#12:$r\,mod\,P$
+\form#13:$-r\,mod\,P$
+\form#14:$N/P$
+\form#15:$\gamma$
+\form#16:\[\gamma\,\ln\frac{R}{r_0}=\arctan\frac{1}{\gamma}+\arctan\frac{\xi_M-1}{\gamma}\]
+\form#17:$R_M$
+\form#18:\[R_M = R\cdot\exp\left(-\frac{1}{\gamma}\cdot\arctan\frac{1}{\gamma}\right)\]
+\form#19:$\xi_M\geq 0$
+\form#20:$\xi_M<\ln(R/r_0)/(1+\ln(R/r_0))$
+\form#21:$\xi_M=\ell_B/a$
+\form#22:$\ell_B$
+\form#23:$a$
+\form#24:$R_C$
+\form#25:$r_0$
+\form#26:$ F_i= -\gamma v_i + \xi_i$
+\form#27:$\tau_i=-\gamma w_i + \xi_i$
+\form#28:$ \exp(d^2) \mathrm{erfc}(d)$
+\form#29:\[ Q(a,x):=\frac{1}{\Gamma(a)}\int_x^\infty e^{-t}t^{a-1}\textrm{d}t\quad(a>0) \]
+\form#30:$$\sum_{k=1}^\textrm{len}v[k]w[k]$$
+\form#31:$omega$

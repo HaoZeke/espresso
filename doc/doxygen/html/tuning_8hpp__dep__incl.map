@@ -1,0 +1,10 @@
+<map id="tuning.hpp" name="tuning.hpp">
+<area shape="rect" id="node2" href="$EwaldgpuForce_8cpp.html" title="EwaldgpuForce.cpp" alt="" coords="5,80,152,107"/>
+<area shape="rect" id="node3" href="$global_8cpp.html" title="Implementation of global.h. " alt="" coords="177,80,266,107"/>
+<area shape="rect" id="node4" href="$mmm1d_8cpp.html" title="MMM1D algorithm for long range coulomb interaction. " alt="" coords="291,80,395,107"/>
+<area shape="rect" id="node5" href="$p3m-dipolar_8cpp.html" title="P3M algorithm for long range magnetic dipole&#45;dipole interaction. " alt="" coords="419,80,546,107"/>
+<area shape="rect" id="node6" href="$p3m_8cpp.html" title="p3m.cpp" alt="" coords="570,80,649,107"/>
+<area shape="rect" id="node7" href="$initialize__interpreter_8cpp.html" title="initialize_interpreter.cpp" alt="" coords="673,80,853,107"/>
+<area shape="rect" id="node8" href="$mmm1d__tcl_8cpp.html" title="mmm1d_tcl.cpp" alt="" coords="877,80,1003,107"/>
+<area shape="rect" id="node9" href="$tuning__tcl_8cpp.html" title="Implements the callback for the timings global variable used during tuning of e.g. " alt="" coords="1027,80,1141,107"/>
+</map>

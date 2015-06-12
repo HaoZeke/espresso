@@ -1,0 +1,11 @@
+<map id="LB_Boundary" name="LB_Boundary">
+<area shape="rect" id="node2" href="$structConstraint__box.html" title="Parameters for a BOX constraint. " alt="" coords="41,5,161,32"/>
+<area shape="rect" id="node3" href="$structConstraint__sphere.html" title="Parameters for a SPHERE constraint. " alt="" coords="31,56,171,83"/>
+<area shape="rect" id="node4" href="$structConstraint__wall.html" title="Parameters for a WALL constraint (or a plane if you like that more). " alt="" coords="40,107,163,133"/>
+<area shape="rect" id="node5" href="$structConstraint__cylinder.html" title="Parameters for a CYLINDER constraint. " alt="" coords="27,157,175,184"/>
+<area shape="rect" id="node6" href="$structConstraint__pore.html" title="Parameters for a PORE constraint. " alt="" coords="39,208,164,235"/>
+<area shape="rect" id="node7" href="$structConstraint__rhomboid.html" title="Parameters for a RHOMBOID constraint. " alt="" coords="22,259,181,285"/>
+<area shape="rect" id="node8" href="$structConstraint__hollow__cone.html" title="Parameters for a HOLLOW_CONE constraint. " alt="" coords="13,309,190,336"/>
+<area shape="rect" id="node9" href="$structConstraint__spherocylinder.html" title="Parameters for a SPHEROCYLINDER constraint. " alt="" coords="5,360,197,387"/>
+<area shape="rect" id="node10" href="$structConstraint__stomatocyte.html" title="Parameters for a STOMATOCYTE constraint. " alt="" coords="12,411,191,437"/>
+</map>
